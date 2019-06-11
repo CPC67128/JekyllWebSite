@@ -1,0 +1,155 @@
+---
+id: 245
+title: 'Ford Focus 2 &#8211; Entretien régulier'
+date: 2012-07-23T19:07:18+01:00
+author: Steve
+layout: post
+guid: http://stevefuchs.fr/wordpress/?p=245
+permalink: /2012/07/23/ford-focus-2-entretien-regulier/
+simplecatch-sidebarlayout:
+  - ""
+categories:
+  - "365"
+tags:
+  - Ford Focus 2
+  - Mécanique
+---
+# Vidange
+
+La vidange est à faire tout les 20.000 km, le filtre à huile se change au même moment.
+
+## _**L&rsquo;huile**_
+
+Utiliser de la 5W30 (si vous avez une 1.8 TDCI comme moi), mais apparemment une 5W40 ou une 10W40 peut aussi faire l&rsquo;affaire (voir d&rsquo;autres).
+
+Utiliser de préférence une huile 100% synthèse. Je ne sais pas si les additifs que certains ajoutent sont vraiment valables (par exemple: Total Activa Futur 9000 / économie de carburant), j&rsquo;en doute. Je privilégie les marques pétrolières connues, mais je doute également que l&rsquo;impact soit vraiment important.
+
+A titre d’exemple, pour l&rsquo;entretien des 100.000 km, j&rsquo;ai pris 2 bidons de 5L de Shell Helix Ultra Diesel AR-L:
+
+[<img class="alignnone size-thumbnail wp-image-249" title="5W30" src="https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/384859.jpg?resize=150%2C150" alt="" width="150" height="150" srcset="https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/384859.jpg?resize=150%2C150 150w, https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/384859.jpg?w=250 250w" sizes="(max-width: 150px) 85vw, 150px" data-recalc-dims="1" />](https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/384859.jpg)
+
+Achetés chez Norauto, 61,95 € le bidon (oui c&rsquo;est très cher&#8230;).
+
+L&rsquo;achat d&rsquo;une marque moins réputée peut réduire cette facture, il y a parfois de bonnes affaires à faire dans les grandes surfaces (Cora en particulier). L&rsquo;achat par Internet également peut parfois offrir de bons tarifs.
+
+Il faut 5,60 litres d&rsquo;huile pour la Focus, alors prévoir un bidon de 5L + un bidon d&rsquo;appoint de 1 ou 2 litres, ou bien 2 de 5L (si vous pouvez l&rsquo;entreposer pour la prochaine révision).
+
+## _**Le filtre à huile**_
+
+Il se présente comme ça (en pièce d&rsquo;origine Ford) :
+
+[<img class="alignnone size-thumbnail wp-image-229" title="Filtre à huile 1" src="https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/IMG_20120721_110812.jpg?resize=150%2C150" alt="" width="150" height="150" data-recalc-dims="1" />](https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/IMG_20120721_110812.jpg) [<img class="alignnone size-thumbnail wp-image-230" title="Filtre à huile 2" src="https://i2.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/IMG_20120721_110818.jpg?resize=150%2C150" alt="" width="150" height="150" data-recalc-dims="1" />](https://i2.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/IMG_20120721_110818.jpg)
+
+[<img class="alignnone size-thumbnail wp-image-231" title="Filtre à huile 3" src="https://i1.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/IMG_20120721_110824.jpg?resize=150%2C150" alt="" width="150" height="150" data-recalc-dims="1" />](https://i1.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/IMG_20120721_110824.jpg) [<img class="alignnone size-thumbnail wp-image-232" title="Filtre à huile 4" src="https://i1.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/IMG_20120721_110831.jpg?resize=150%2C150" alt="" width="150" height="150" data-recalc-dims="1" />](https://i1.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/IMG_20120721_110831.jpg)
+
+Acheté 21,72 € chez Ford le 21/07/2012.
+
+Je l&rsquo;ai également trouvé chez Oscaro.com à 9,86 € (Filtre à huile BOSCH F 026 407 017).
+
+## _**Le bouchon de vidange  
+**_ 
+
+Sur la Focus 2, il n&rsquo;est pas forcément nécessaire de remplacer le bouchon si le joint est encore en bon état. Sinon on peut parfois recevoir un joint gratuitement avec le filtre au guichet des pièces Ford, ou on peut acheter un bouchon complet :
+
+[<img class="alignnone size-thumbnail wp-image-250" title="Bouchon-vidange 1" src="https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/IMG_20120721_110943.jpg?resize=150%2C150" alt="" width="150" height="150" data-recalc-dims="1" />](https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/IMG_20120721_110943.jpg) [<img class="alignnone size-thumbnail wp-image-251" title="Bouchon-vidange 2" src="https://i2.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/IMG_20120721_110946.jpg?resize=150%2C150" alt="" width="150" height="150" data-recalc-dims="1" />](https://i2.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/IMG_20120721_110946.jpg) [<img class="alignnone size-thumbnail wp-image-252" title="Bouchon-vidange 3" src="https://i2.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/IMG_20120721_110958.jpg?resize=150%2C150" alt="" width="150" height="150" data-recalc-dims="1" />](https://i2.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/IMG_20120721_110958.jpg)
+
+Acheté chez Ford, 11,94 € la pièce.
+
+J&rsquo;ai également acheté cette pièce sur Oscaro.com à 9,97 € (« Bouchon de vidange ELRING 012.000 »).
+
+## _**Opérations  
+**_ 
+
+Remplacement plutôt facile&#8230; si on a une fosse ou un moyen d&rsquo;élever le véhicule :
+
+  * Attendre que le moteur soit froid (sinon risque de brûlures)
+  * Se placer sous la voiture
+  * Retirer le cache de protection plastique (quelques vis à enlever, il empêche les projections depuis la route vers le moteur). Prévoir des clés **Torx (T27)** pour ça:
+
+[<img title="Source : http://xsolutions.free.fr/home/mac/hardware/HDD-imac/pieces-pour-imac_files/embout-vis-torx-cruciforme.jpg" src="https://i1.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/embout-vis-torx-cruciforme.jpg?resize=300%2C206" alt="" width="300" height="206" data-recalc-dims="1" />](https://i1.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/embout-vis-torx-cruciforme.jpg)
+
+  * Localiser le carter, il y a une vis en bas sur le coté
+  * Prendre une vieille bassine (contenance 6 litres au moins), vous pouvez trouver ça chez Emmaüs par exemple, et la placer sous cette vis du carter (vous pouvez la tenir le temps que le plus gros de l&rsquo;huile soit sorti
+  * Dé-serrer la vis (essayer d&rsquo;éviter de laisser tomber la vis dans la bassine) et laisser couler l&rsquo;huile dans la bassine. Une **clé de 13** sera nécessaire.
+  * Quand le flot d&rsquo;huile s&rsquo;arrête, il faut vous attaquer au filtre à huile. Attention, laisser la bassine en dessous car en retirant le filtre à huile, de l&rsquo;huile ressort un peu.
+  * Dé-serrer le filtre à huile actuel, une clé à ruban est utile:
+
+[<img class="alignnone size-thumbnail wp-image-235" title="Clé à ruban" src="https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/27072.jpg?resize=150%2C150" alt="" width="150" height="150" srcset="https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/27072.jpg?resize=150%2C150 150w, https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/27072.jpg?resize=300%2C300 300w, https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/27072.jpg?w=400 400w" sizes="(max-width: 150px) 85vw, 150px" data-recalc-dims="1" />](https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/27072.jpg)
+
+  * Laissez couler le restant d&rsquo;huile
+  * Huilez le joint du nouveau filtre à huile. Vous pouvez utiliser la nouvelle huile moteur que vous allez mettre dans la voiture. Utilisez votre doigt pour parcourir le joint. Ceci facilitera le dé-serrage ultérieur.
+  * Nettoyer avec un chiffon propre le support du filtre à huile, huilez
+  * Fixer et serrer manuellement le nouveau filtre
+  * Une fois le nouveau filtre à huile en place, fermer le carter avec le bouchon
+  * Vérifier une nouvelle fois que tout soit bien en place (bouchon, filtre à huile)
+  * Aller sous le capot et ouvrir le bouchon pour l&rsquo;huile sur le moteur
+  * Prendre un entonnoir, et verser la nouvelle huile (attention, il faut plus de 5 litres)
+  * Vérifier le niveau, ajuster si nécessaire, fermer le bouchon d&rsquo;insertion de l&rsquo;huile
+  * S&rsquo;assurer qu&rsquo;on a rien laissé traîner (outils&#8230;)
+  * Démarrer la voiture et la laisser tourner un peu à l&rsquo;arrêt pendant quelques minutes (ne pas accélérer), faire l&rsquo;appoint si nécessaire
+
+# Filtre à air
+
+Le filtre à air doit être remplacé tout les 60.000 km (ou 40.00 km).
+
+[<img class="alignnone size-thumbnail wp-image-292" title="Filtre à air" src="https://i1.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/IMG_20120721_110850.jpg?resize=150%2C150" alt="" width="150" height="150" data-recalc-dims="1" />](https://i1.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/IMG_20120721_110850.jpg) [<img class="alignnone size-thumbnail wp-image-293" title="Filtre à air" src="https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/IMG_20120721_110914.jpg?resize=150%2C150" alt="" width="150" height="150" data-recalc-dims="1" />](https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/IMG_20120721_110914.jpg)  
+[<img class="alignnone size-thumbnail wp-image-294" title="Filtre à air" src="https://i1.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/IMG_20120721_110925.jpg?resize=150%2C150" alt="" width="150" height="150" data-recalc-dims="1" />](https://i1.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/IMG_20120721_110925.jpg) [<img class="alignnone size-thumbnail wp-image-297" title="Filtre à air" src="https://i2.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/IMG_20120721_110947.jpg?resize=150%2C150" alt="" width="150" height="150" data-recalc-dims="1" />](https://i2.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/IMG_20120721_110947.jpg)
+
+Acheté chez Ford 26,87 €, ou sur Oscaro.com 13,57 € (Filtre à air MANN-FILTER C 16 134/1).
+
+## _**Opérations**_
+
+Le filtre à air est plutôt simple à remplacer.
+
+  * Utiliser le manuel pour localiser son emplacement si besoin : juste sous le capot, à droite du moteur, en dessous de la batterie.
+  * Dévisser le cache de protection avec une **clé à tube de 7**
+  * Retirer l&rsquo;ancien filtre : léger mouvement de gauche à droite, puis retirer en levant le côté droit. Observer comment le petit picot est clipsé en bas.
+  * Souffler l&#8217;emplacement pour retirer les éventuels résidus tombés
+  * Mettre le nouveau filtre en place : le placer picot en bas, mouvement de droit à gauche pour le placer correctement dans l&rsquo;entrée d&rsquo;air, clipser le picot en bas. Il faut un peu batailler pour le placer, mais attention à ne pas trop tordre le filtre. Une loupiote peut s&rsquo;afficher sur le tableau de bord si le filtre est mal placé.
+  * Refermer correctement et revisser le capot du filtre.
+  * Tester: démarrer le moteur, laisser tourner
+
+Vous pouvez ramener le filtre usagé à la déchetterie communale.
+
+_**Note**_
+
+Le filtre acheté peut avoir une dimension légèrement supérieure au filtre en place&#8230; mais cela rentre&#8230; Nous avons du forcer pour rentrer le filtre d&rsquo;origine Ford, mais nous avons pu mettre en place le filtre Mann Filter sans trop de soucis alors que ce dernier était plus grand.
+
+# Filtre habitacle
+
+Le filtre habitacle est a remplacer tout les 20.000 ou 40.000 km.
+
+_**Le filtre habitacle**_
+
+[<img class="alignnone size-thumbnail wp-image-281" title="Filtre habitacle 1" src="https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/IMG_20120721_110750.jpg?resize=150%2C150" alt="" width="150" height="150" data-recalc-dims="1" />](https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/IMG_20120721_110750.jpg) [<img class="alignnone size-thumbnail wp-image-282" title="Filtre habitacle 2" src="https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/IMG_20120721_110800.jpg?resize=150%2C150" alt="" width="150" height="150" data-recalc-dims="1" />](https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/IMG_20120721_110800.jpg)
+
+[<img class="alignnone size-thumbnail wp-image-283" title="Filtre habitacle 3" src="https://i1.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/IMG_20120721_111052.jpg?resize=150%2C150" alt="" width="150" height="150" data-recalc-dims="1" />](https://i1.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/IMG_20120721_111052.jpg) [<img class="alignnone size-thumbnail wp-image-284" title="Filtre habitacle 4" src="https://i1.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/IMG_20120721_111100.jpg?resize=150%2C150" alt="" width="150" height="150" data-recalc-dims="1" />](https://i1.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/IMG_20120721_111100.jpg) [<img class="alignnone size-thumbnail wp-image-285" title="Filtre habitacle 5" src="https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/IMG_20120721_111103.jpg?resize=150%2C150" alt="" width="150" height="150" data-recalc-dims="1" />](https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/IMG_20120721_111103.jpg)
+
+J&rsquo;ai pris un simple filtre habitacle Norauto.
+
+Le mieux étant les filtres d&rsquo;habitacle au charbon actif&#8230;
+
+_**Les opérations**_
+
+Le remplacement est plutôt enquiquinant car le filtre est à un endroit difficile d&rsquo;accès.
+
+Nous avons cherché un long moment où était localisé le filtre habitacle&#8230; on a regardé à plusieurs endroit et même enlevé certaines pièce cosmétiques.
+
+Pour l&rsquo;anecdote, voici les instructions données sur le feuillet explicatif Norauto :
+
+[<img class="alignnone size-medium wp-image-279" title="Filtre-Habitacle-Instructions-Norauto" src="https://i1.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/Filtre-Habitacle-Instructions-Norauto.jpg?resize=300%2C295" alt="" width="300" height="295" srcset="https://i1.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/Filtre-Habitacle-Instructions-Norauto.jpg?resize=300%2C295 300w, https://i1.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/Filtre-Habitacle-Instructions-Norauto.jpg?w=900 900w" sizes="(max-width: 300px) 85vw, 300px" data-recalc-dims="1" />](https://i1.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/Filtre-Habitacle-Instructions-Norauto.jpg)
+
+Vu après coup bien sûr&#8230; comme quoi il faut lire les notices 🙂 même si on a déjà vu plus clair.
+
+  * Au niveau de la pédale d&rsquo;accélérateur, localiser l&#8217;emplacement du filtre: au fond, cache rectangulaire, avec des vis de fixations
+  * Dévisser la pédale d&rsquo;accélérateur (quelques vis), la déconnecter (prise électronique)
+  * Enlever le cache du filtre, sortir le filtre usagé
+
+[<img class="alignnone size-thumbnail wp-image-286" title="Filtre usagé" src="https://i2.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/IMG_20120721_145921.jpg?resize=150%2C150" alt="" width="150" height="150" data-recalc-dims="1" />](https://i2.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/IMG_20120721_145921.jpg) [<img class="alignnone size-thumbnail wp-image-287" title="Filtre usagé" src="https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/IMG_20120721_145938.jpg?resize=150%2C150" alt="" width="150" height="150" data-recalc-dims="1" />](https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/IMG_20120721_145938.jpg) [<img class="alignnone size-thumbnail wp-image-288" title="Filtre usagé" src="https://i2.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/IMG_20120721_145943.jpg?resize=150%2C150" alt="" width="150" height="150" data-recalc-dims="1" />](https://i2.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2012/07/IMG_20120721_145943.jpg)
+
+  * Le nouveau filtre a un sens, marqué par « air flow » et une flèche dans mon cas. L&rsquo;origine de l&rsquo;air vient du coté moteur&#8230;
+  * Mettre le filtre en place (même position que l&rsquo;ancien filtre), c&rsquo;est assez galère, on peut le compresser un peu pour le faire rentrer.
+  * Refermer le cache de protection du filtre habitacle
+  * Reconnecter la prise de la pédale d&rsquo;accélérateur
+  * Revisser la pédale d&rsquo;accélérateur
+  * Tester: allumer le moteur, ventilation à fond

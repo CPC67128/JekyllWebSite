@@ -1,0 +1,46 @@
+---
+id: 551
+title: Projet Raspberry Pi / Fin des premiers tests
+date: 2013-05-01T10:06:39+01:00
+author: Steve
+layout: post
+guid: http://stevefuchs.fr/wordpress/?p=551
+permalink: /2013/05/01/projet-raspberry-pi-fin-des-premiers-tests/
+categories:
+  - RasPi-Somfy
+---
+Voici quelques photos du projet jusque là.
+
+Le code source utilisé pour les tests est archivé [ici](http://stevefuchs.fr/projects/Raspberry-Pi-master.zip).
+
+L&rsquo;installation complète :  
+[<img class="alignnone size-medium wp-image-564" src="https://i1.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/DSC02127MIN.jpg?resize=300%2C225" alt="DSC02127MIN" width="300" height="225" srcset="https://i1.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/DSC02127MIN.jpg?resize=300%2C225 300w, https://i1.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/DSC02127MIN.jpg?resize=1024%2C768 1024w, https://i1.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/DSC02127MIN.jpg?resize=624%2C468 624w, https://i1.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/DSC02127MIN.jpg?w=1600 1600w" sizes="(max-width: 300px) 85vw, 300px" data-recalc-dims="1" />](https://i1.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/DSC02127MIN.jpg)
+
+La partie LED, rien d&rsquo;exceptionnel (une résistance + une LED) :  
+[<img class="alignnone size-medium wp-image-565" src="https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/DSC02132MIN.jpg?resize=300%2C225" alt="DSC02132MIN" width="300" height="225" srcset="https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/DSC02132MIN.jpg?resize=300%2C225 300w, https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/DSC02132MIN.jpg?resize=1024%2C768 1024w, https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/DSC02132MIN.jpg?resize=624%2C468 624w, https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/DSC02132MIN.jpg?w=1600 1600w" sizes="(max-width: 300px) 85vw, 300px" data-recalc-dims="1" />](https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/DSC02132MIN.jpg)
+
+La partie température, une résistance et une sonde DS1820 :  
+[<img class="alignnone size-medium wp-image-566" src="https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/DSC02133MIN.jpg?resize=300%2C225" alt="DSC02133MIN" width="300" height="225" srcset="https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/DSC02133MIN.jpg?resize=300%2C225 300w, https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/DSC02133MIN.jpg?resize=1024%2C768 1024w, https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/DSC02133MIN.jpg?resize=624%2C468 624w, https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/DSC02133MIN.jpg?w=1600 1600w" sizes="(max-width: 300px) 85vw, 300px" data-recalc-dims="1" />](https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/DSC02133MIN.jpg)
+
+Les écrans de l&rsquo;application web :
+
+&#8211; LED éteinte et webcam en diffusion continue :  
+[<img class="alignnone size-medium wp-image-573" src="https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/WebCamLive_LEDoff.jpg?resize=300%2C230" alt="WebCamLive_LEDoff" width="300" height="230" srcset="https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/WebCamLive_LEDoff.jpg?resize=300%2C230 300w, https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/WebCamLive_LEDoff.jpg?resize=1024%2C787 1024w, https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/WebCamLive_LEDoff.jpg?resize=624%2C479 624w, https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/WebCamLive_LEDoff.jpg?w=1280 1280w" sizes="(max-width: 300px) 85vw, 300px" data-recalc-dims="1" />](https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/WebCamLive_LEDoff.jpg)
+
+&#8211; LED allumée et webcam en diffusion continue :  
+[<img class="alignnone size-medium wp-image-574" src="https://i2.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/WebCamLive_LEDon.jpg?resize=300%2C230" alt="WebCamLive_LEDon" width="300" height="230" srcset="https://i2.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/WebCamLive_LEDon.jpg?resize=300%2C230 300w, https://i2.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/WebCamLive_LEDon.jpg?resize=1024%2C787 1024w, https://i2.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/WebCamLive_LEDon.jpg?resize=624%2C479 624w, https://i2.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/WebCamLive_LEDon.jpg?w=1280 1280w" sizes="(max-width: 300px) 85vw, 300px" data-recalc-dims="1" />](https://i2.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/WebCamLive_LEDon.jpg)
+
+&#8211; Suivi des mesures de température :  
+[<img class="alignnone size-medium wp-image-577" src="https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/Temperature.jpg?resize=300%2C230" alt="Temperature" width="300" height="230" srcset="https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/Temperature.jpg?resize=300%2C230 300w, https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/Temperature.jpg?resize=1024%2C787 1024w, https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/Temperature.jpg?resize=624%2C479 624w, https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/Temperature.jpg?w=1280 1280w" sizes="(max-width: 300px) 85vw, 300px" data-recalc-dims="1" />](https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/Temperature.jpg)
+
+&#8211; Prise de photo par la webcam :  
+[<img class="alignnone size-medium wp-image-575" src="https://i2.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/WebCamShot.jpg?resize=300%2C230" alt="WebCamShot" width="300" height="230" srcset="https://i2.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/WebCamShot.jpg?resize=300%2C230 300w, https://i2.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/WebCamShot.jpg?resize=1024%2C787 1024w, https://i2.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/WebCamShot.jpg?resize=624%2C479 624w, https://i2.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/WebCamShot.jpg?w=1280 1280w" sizes="(max-width: 300px) 85vw, 300px" data-recalc-dims="1" />](https://i2.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/WebCamShot.jpg)
+
+&#8211; Suivi de l&rsquo;utilisation de la mémoire :  
+[<img class="alignnone size-medium wp-image-576" src="https://i1.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/MemoryUsage.jpg?resize=300%2C230" alt="MemoryUsage" width="300" height="230" srcset="https://i1.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/MemoryUsage.jpg?resize=300%2C230 300w, https://i1.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/MemoryUsage.jpg?resize=1024%2C787 1024w, https://i1.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/MemoryUsage.jpg?resize=624%2C479 624w, https://i1.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/MemoryUsage.jpg?w=1280 1280w" sizes="(max-width: 300px) 85vw, 300px" data-recalc-dims="1" />](https://i1.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/MemoryUsage.jpg)
+
+&#8211; Les 15 processus les plus gourmands en CPU :  
+[<img class="alignnone size-medium wp-image-571" src="https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/Top15ProcessesCPUUsage.jpg?resize=300%2C230" alt="Top15ProcessesCPUUsage" width="300" height="230" srcset="https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/Top15ProcessesCPUUsage.jpg?resize=300%2C230 300w, https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/Top15ProcessesCPUUsage.jpg?resize=1024%2C787 1024w, https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/Top15ProcessesCPUUsage.jpg?resize=624%2C479 624w, https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/Top15ProcessesCPUUsage.jpg?w=1280 1280w" sizes="(max-width: 300px) 85vw, 300px" data-recalc-dims="1" />](https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/Top15ProcessesCPUUsage.jpg)
+
+&#8211; Les 15 processus les plus gourmands en mémoire :  
+[<img class="alignnone size-medium wp-image-572" src="https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/Top15ProcessesMemoryUsage.jpg?resize=300%2C230" alt="Top15ProcessesMemoryUsage" width="300" height="230" srcset="https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/Top15ProcessesMemoryUsage.jpg?resize=300%2C230 300w, https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/Top15ProcessesMemoryUsage.jpg?resize=1024%2C787 1024w, https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/Top15ProcessesMemoryUsage.jpg?resize=624%2C479 624w, https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/Top15ProcessesMemoryUsage.jpg?w=1280 1280w" sizes="(max-width: 300px) 85vw, 300px" data-recalc-dims="1" />](https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2013/05/Top15ProcessesMemoryUsage.jpg)
