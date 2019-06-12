@@ -1,14 +1,15 @@
 ---
 id: 1278
 title: Windows Remote Control
-date: 2016-01-01T18:39:46+01:00
+date: 2004-02-18T18:39:46+01:00
 author: Steve
-layout: page
+layout: post
 guid: http://stevefuchs.fr/wordpress/?page_id=1278
+permalink: /2004/02/18/windows-remote-control/
 ---
 Projet Visual C++ 6
 
-Année de réalisation : 2003
+Année de réalisation : 2003/2004
 
 Programme en architecture client / serveur de prise de contrôle à distance d&rsquo;un poste Windows.
 
