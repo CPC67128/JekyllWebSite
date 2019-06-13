@@ -1,11 +1,12 @@
 ---
 id: 634
-title: 'Réparation d&rsquo;une fuite sur machine à laver'
+title: 'Réparation d''une fuite sur machine à laver'
 date: 2013-09-08T23:45:02+01:00
 author: Steve
 layout: post
 guid: http://stevefuchs.fr/wordpress/?p=634
 permalink: /2013/09/08/reparation-dune-fuite-sur-ma-machine-a-laver/
+comments: true
 categories:
   - "365"
 tags:

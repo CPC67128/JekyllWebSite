@@ -1,6 +1,6 @@
 ---
 id: 245
-title: 'Ford Focus 2 &#8211; Entretien régulier'
+title: 'Ford Focus 2 - Entretien régulier'
 date: 2012-07-23T19:07:18+01:00
 author: Steve
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 487
-title: 'Raspberry &#038; Capteur de temperature DS18x20 1-wire'
+title: 'Raspberry / Capteur de temperature DS18x20 1-wire'
 date: 2013-03-08T17:16:10+01:00
 author: Steve
 layout: post

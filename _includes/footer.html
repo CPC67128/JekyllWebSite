@@ -3,24 +3,18 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.author | escape }}</h2>
-
     <div class="footer-col-wrapper">
-<!--      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
-        </ul>
-      </div>-->
 
-      <div class="footer-col footer-col-2">
+      <div class="footer-col footer-col-1">
         {%- include social.html -%}
       </div>
 
-      <div class="footer-col footer-col-3">
-        <p>{{- site.descriptin | escape -}}</p>
+      <div class="footer-col footer-col-2">
+        <a class="page-link" href="{{ site.baseurl }}{% link liens.md %}">Liens</a>
+        <br /><br />
+        <p class="rss-subscribe">Flux <a href="{{ "/feed.xml" | relative_url }}">RSS</a></p>
       </div>
+
     </div>
 
   </div>

@@ -4,5 +4,3 @@
 
 layout: home
 ---
-
-Vous trouverez ici quelques articles rédigésque j'ai rédigé selon mes 

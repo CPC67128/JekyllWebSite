@@ -1,6 +1,6 @@
 ---
 id: 1715
-title: 'CrowdFunding &#8211; Premier risque d&rsquo;incident de paiement'
+title: 'CrowdFunding - Premier risque d&rsquo;incident de paiement'
 date: 2017-11-14T07:00:20+01:00
 author: Steve
 layout: post
