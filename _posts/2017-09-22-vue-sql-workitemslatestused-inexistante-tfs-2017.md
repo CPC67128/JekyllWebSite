@@ -6,11 +6,8 @@ author: Steve
 layout: post
 guid: http://stevefuchs.fr/wordpress/?p=1995
 permalink: /2017/09/22/vue-sql-workitemslatestused-inexistante-tfs-2017/
-categories:
-  - Développement
-tags:
-  - SQL
-  - Team Foundation Server
+categories: [Développement]
+tags: [SQL,TFS]
 ---
 Avec TFS 2013.5, j&rsquo;utilisais la vue SQL WorkItemsLatestUsed pour calculer certains indicateurs.
 
@@ -22,7 +19,8 @@ J&rsquo;ai migré en TFS 2017, et cette vue n&rsquo;existe plus. J&rsquo;ai cepe
 
 Pour retrouver un équivalent de l&rsquo;ancienne vue WorkItemsLatestUsed et avoir une table contenant l&rsquo;ensemble de mes work items, j&rsquo;utilise donc dorénavant la requête suivante:
 
-<pre>SELECT Core.[System.Id] as SystemId
+{% highlight sql %}
+SELECT Core.[System.Id] as SystemId
 ,Core.[System.TeamProject] as SystemTeamProject
 ,Core.[System.ChangedDate] as SystemChangedDate
 ,Core.[System.CreatedDate] as SystemCreatedDate
@@ -31,7 +29,6 @@ Pour retrouver un équivalent de l&rsquo;ancienne vue WorkItemsLatestUsed et av
 ,RemainingWork.FloatValue as MicrosoftVSTSSchedulingRemainingWork
 ,CompletedWork.FloatValue as MicrosoftVSTSSchedulingCompletedWork
 ,rtrim(left(Core.[System.AssignedTo], charindex('&lt;',Core.[System.AssignedTo])-1)) as SystemAssignedTo
--- Core.[System.AssignedTo] has now some data in an additional "&lt;...&gt;"
 ,Core.[System.WorkItemType] as SystemWorkItemType
 ,Title.TextValue as SystemTitle
 ,Core.[System.State] as SystemState
@@ -42,4 +39,4 @@ left join [dbo].[vw_denorm_WorkItemCustomLatest] CompletedWork on Core.[System.I
 left join [dbo].[vw_denorm_WorkItemCustomLatest] ClosedDate on Core.[System.Id] = ClosedDate.Id and ClosedDate.FieldId = 10009
 left join [dbo].[vw_denorm_WorkItemCustomLatest] Title on Core.[System.Id] = Title.Id and Title.FieldId = 1
 where Core.[IsDeleted] = 0
-</pre>
+{% endhighlight %}
