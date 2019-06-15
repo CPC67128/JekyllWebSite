@@ -6,8 +6,7 @@ author: Steve
 layout: post
 guid: http://stevefuchs.fr/wordpress/?p=1520
 permalink: /2016/06/14/inscription-free/
-categories:
-  - "365"
+categories: [365]
 ---
 Sûrement suite à mon inscription à Free Mobile, je reçois un appel le mercredi 1er Juin 2016 du call center de Free.
 
@@ -61,7 +60,7 @@ Le même soir, je remarque que ma LiveBox Orange n&rsquo;est plus active, je n&
 
 Je me rends sur mon interface de suivi. A priori l&rsquo;ensemble des étapes ont été faites, sauf que je n&rsquo;ai pas encore la box. Ce qui s&rsquo;appelle mettre la charrue avant les boeufs.
 
-<a href="http://stevefuchs.fr/wordpress/2016/06/07/inscription-free/free-suivi/" rel="attachment wp-att-1527"><img class="alignnone wp-image-1527" src="https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2016/06/Free-Suivi.png?resize=840%2C508" alt="Free Suivi" width="840" height="508" srcset="https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2016/06/Free-Suivi.png?w=902 902w, https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2016/06/Free-Suivi.png?resize=300%2C182 300w, https://i0.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2016/06/Free-Suivi.png?resize=768%2C465 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" data-recalc-dims="1" /></a>
+![-]({{site.baseurl}}/wp-content/uploads/2016/06/Free-Suivi.png)
 
 **Jeudi 9/6/2016**
 

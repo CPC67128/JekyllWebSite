@@ -6,8 +6,7 @@ author: Steve
 layout: post
 guid: http://stevefuchs.fr/wordpress/?p=1577
 permalink: /2016/09/07/tablette-internet-portugal/
-categories:
-  - Hardware
+categories: [Hardware]
 ---
 Un proche m&rsquo;a parlé d&rsquo;un besoin « Je vais au Portugal en vacances et j&rsquo;aimerais que tu m&rsquo;achètes une tablette, dans les 300 ou 400 €, pour que je puisse accéder à Internet quand je suis là-bas d&rsquo;un peu n&rsquo;importe où ».
 
@@ -31,4 +30,4 @@ J&rsquo;ai donné la tablette transmise à la personne qui est donc partie au 
 
 Le suivi Free Mobile permet d&rsquo;avoir un bon détail, et il m&rsquo;a également permet de confirmer que le décompte des 35 jours de connexion par an était par pays:
 
-<a href="http://stevefuchs.fr/wordpress/2016/09/07/tablette-internet-portugal/utilisation-du-forfait-free-mobile-au-portugal/" rel="attachment wp-att-1603"><img class="alignleft size-full wp-image-1603" src="https://i2.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2016/09/Utilisation-du-forfait-free-mobile-au-Portugal-.png?resize=700%2C382" alt="utilisation-du-forfait-free-mobile-au-portugal" width="700" height="382" srcset="https://i2.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2016/09/Utilisation-du-forfait-free-mobile-au-Portugal-.png?w=700 700w, https://i2.wp.com/stevefuchs.fr/wordpress/wp-content/uploads/2016/09/Utilisation-du-forfait-free-mobile-au-Portugal-.png?resize=300%2C164 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" data-recalc-dims="1" /></a>
+![utilisation-du-forfait-free-mobile-au-portugal]({{site.baseurl}}/wp-content/uploads/2016/09/Utilisation-du-forfait-free-mobile-au-Portugal-.png)

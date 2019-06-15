@@ -6,10 +6,8 @@ author: Steve
 layout: post
 guid: http://stevefuchs.fr/wordpress/?p=647
 permalink: /2013/09/29/achat-shuttle-ds47/
-categories:
-  - Hardware
-tags:
-  - Green Server
+categories: [Hardware]
+tags: [Green Server]
 ---
 Sorti il y a peu, je viens d&rsquo;acheter un Shuttle DS47. PC Fanless avec un Celeron 847 à l&rsquo;intérieur.
 

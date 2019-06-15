@@ -6,11 +6,8 @@ author: Steve
 layout: post
 guid: http://stevefuchs.fr/wordpress/?p=1132
 permalink: /2014/12/22/scripts-de-backups-de-mon-site-web-1-and-1/
-categories:
-  - Développement
-tags:
-  - Linux
-  - Web
+categories: [Développement]
+tags: [Linux, Web]
 ---
 Script Linux Backup\_1and1\_DB.bash permettant de sauvegarder les bases de données 1&1 en un fichier script qui sera enregistré sur un répertoire /backup a créer avant, puis téléchargé localement :
 

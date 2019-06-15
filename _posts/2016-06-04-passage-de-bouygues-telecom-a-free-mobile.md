@@ -6,12 +6,8 @@ author: Steve
 layout: post
 guid: http://stevefuchs.fr/wordpress/?p=1522
 permalink: /2016/06/04/passage-de-bouygues-telecom-a-free-mobile/
-categories:
-  - "365"
-tags:
-  - Finance personnelle
-  - Mécontentement
-  - Mobile
+categories: [365]
+tags: [Finance, Mécontentement, Mobile]
 ---
 # Contexte
 

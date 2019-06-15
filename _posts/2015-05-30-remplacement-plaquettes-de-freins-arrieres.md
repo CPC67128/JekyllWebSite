@@ -6,11 +6,8 @@ author: Steve
 layout: post
 guid: http://stevefuchs.fr/wordpress/?p=1046
 permalink: /2015/05/30/remplacement-plaquettes-de-freins-arrieres/
-categories:
-  - "365"
-tags:
-  - Ford Focus 2
-  - Mécanique
+categories: [365]
+tags: [Ford Focus 2, Mécanique]
 ---
 Modèle Ford Focus 2 TDCI 115 ch de 2008 (restylée)
 

@@ -6,10 +6,8 @@ author: Steve
 layout: post
 guid: http://stevefuchs.fr/wordpress/?p=1003
 permalink: /2014/12/22/gerer-des-objets-de-laot/
-categories:
-  - Développement
-tags:
-  - AX 2012
+categories: [Développement]
+tags: [AX 2012]
 ---
 Effacer un menu ou modifier les propriétés d&rsquo;un menu (valable pour d&rsquo;autres objets) :
 
