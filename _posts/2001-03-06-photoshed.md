@@ -6,10 +6,7 @@ author: Steve
 layout: post
 guid: http://stevefuchs.fr/wordpress/?page_id=1211
 permalink: /2001/03/06/photoshed/
-categories:
-  - "Cave"
-tags:
-  - Cave
+categories: [Développement]
 ---
 Projet Java (Swing), projet scolaire de fin d&rsquo;études du DUT Informatique
 

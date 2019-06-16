@@ -6,6 +6,7 @@ author: Steve
 layout: post
 guid: http://stevefuchs.fr/wordpress/?page_id=1288
 permalink: /2003/12/30/site-internet-sur-le-karate/
+categories: [Développement]
 ---
 Site Internet sur le Karaté réalisé en 2003, non maintenu à ce jour mais toujours actif et visité.
 

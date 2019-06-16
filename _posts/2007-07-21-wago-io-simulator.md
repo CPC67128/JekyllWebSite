@@ -6,6 +6,7 @@ author: Steve
 layout: post
 guid: http://stevefuchs.fr/wordpress/?page_id=1260
 permalink: /2007/07/21/wago-io-simulator/
+categories: [Développement]
 ---
 Projet permettant de simuler le fonctionnement d&rsquo;un ensemble « simple » de modules Wago I/O sur Ethernet.
 

@@ -6,6 +6,7 @@ author: Steve
 layout: post
 guid: http://stevefuchs.fr/wordpress/?page_id=1278
 permalink: /2004/02/18/windows-remote-control/
+categories: [Développement]
 ---
 Projet Visual C++ 6
 
