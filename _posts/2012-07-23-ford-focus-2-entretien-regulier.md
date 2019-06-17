@@ -23,7 +23,7 @@ A titre d’exemple, pour l&rsquo;entretien des 100.000 km, j&rsquo;ai pris 2 bi
 
 ![-]({{site.baseurl}}/wp-content/uploads/2012/07/384859.jpg)
 
-Achetés chez Norauto, 61,95 € le bidon (oui c&rsquo;est très cher&#8230;).
+Achetés chez Norauto, 61,95 € le bidon (oui c&rsquo;est cher&#8230;).
 
 L&rsquo;achat d&rsquo;une marque moins réputée peut réduire cette facture, il y a parfois de bonnes affaires à faire dans les grandes surfaces (Cora en particulier). L&rsquo;achat par Internet également peut parfois offrir de bons tarifs.
 

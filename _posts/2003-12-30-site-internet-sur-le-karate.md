@@ -16,30 +16,30 @@ Le lien (tant que celui-ci est encore valide) est <a class="external free" href
 
 L&rsquo;interface date beaucoup maintenant 🙂 La première page du site ressemble à la suivante :
 
-![www.karatedo.free.fr](/wp-content/uploads/2016/01/2017-08-14_214916.png)
+![www.karatedo.free.fr]({{site.baseurl}}/wp-content/uploads/2016/01/2017-08-14_214916.png)
 
 Statistiques d&rsquo;accès :
 
-![2011-06-25](/wp-content/uploads/2016/01/2011-06-25.png)
+![2011-06-25]({{site.baseurl}}/wp-content/uploads/2016/01/2011-06-25.png)
 
-![2012-06-03](/wp-content/uploads/2016/01/2012-06-03.png)
+![2012-06-03]({{site.baseurl}}/wp-content/uploads/2016/01/2012-06-03.png)
 
-![2017-08-14](/wp-content/uploads/2016/01/2017-08-14_221802.png)
+![2017-08-14]({{site.baseurl}}/wp-content/uploads/2016/01/2017-08-14_221802.png)
 
 Signatures dans le « livre d&rsquo;or » :
 
-![2011-06-25](/wp-content/uploads/2016/01/2017-08-14_220848.png)
+![2011-06-25]({{site.baseurl}}/wp-content/uploads/2016/01/2017-08-14_220848.png)
 
-![2011-06-25](/wp-content/uploads/2016/01/2017-08-14_220858.png)
+![2011-06-25]({{site.baseurl}}/wp-content/uploads/2016/01/2017-08-14_220858.png)
 
-![2011-06-25](/wp-content/uploads/2016/01/2017-08-14_220909.png)
+![2011-06-25]({{site.baseurl}}/wp-content/uploads/2016/01/2017-08-14_220909.png)
 
-![2011-06-25](/wp-content/uploads/2016/01/2017-08-14_220933.png)
+![2011-06-25]({{site.baseurl}}/wp-content/uploads/2016/01/2017-08-14_220933.png)
 
-![2011-06-25](/wp-content/uploads/2016/01/2017-08-14_220946.png)
+![2011-06-25]({{site.baseurl}}/wp-content/uploads/2016/01/2017-08-14_220946.png)
 
-![2011-06-25](/wp-content/uploads/2016/01/2017-08-14_220955.png)
+![2011-06-25]({{site.baseurl}}/wp-content/uploads/2016/01/2017-08-14_220955.png)
 
-![2011-06-25](/wp-content/uploads/2016/01/2017-08-14_221004.png)
+![2011-06-25]({{site.baseurl}}/wp-content/uploads/2016/01/2017-08-14_221004.png)
 
-![2011-06-25](/wp-content/uploads/2016/01/2017-08-14_221013.png)
+![2011-06-25]({{site.baseurl}}/wp-content/uploads/2016/01/2017-08-14_221013.png)

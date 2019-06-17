@@ -26,20 +26,20 @@ Les traitements disponibles sont :
   * watershed : algorithme automatisé avec H-Minima, algorithme manuel, statistiques
   * fusion
 
-![PhotoShed1](/wp-content/uploads/2015/12/PhotoShed1.jpg)
+![PhotoShed1]({{site.baseurl}}/wp-content/uploads/2015/12/PhotoShed1.jpg)
 
-![PhotoShed2](/wp-content/uploads/2015/12/PhotoShed2.jpg)
+![PhotoShed2]({{site.baseurl}}/wp-content/uploads/2015/12/PhotoShed2.jpg)
 
-![SamplePhotoShed1](/wp-content/uploads/2015/12/SamplePhotoShed1.jpg)
+![SamplePhotoShed1]({{site.baseurl}}/wp-content/uploads/2015/12/SamplePhotoShed1.jpg)
 
-![SamplePhotoShed2](/wp-content/uploads/2015/12/SamplePhotoShed2.jpg)
+![SamplePhotoShed2]({{site.baseurl}}/wp-content/uploads/2015/12/SamplePhotoShed2.jpg)
 
-![SamplePhotoShed3](/wp-content/uploads/2015/12/SamplePhotoShed3.jpg)
+![SamplePhotoShed3]({{site.baseurl}}/wp-content/uploads/2015/12/SamplePhotoShed3.jpg)
 
-![SamplePhotoShed4](/wp-content/uploads/2015/12/SamplePhotoShed4.jpg)
+![SamplePhotoShed4]({{site.baseurl}}/wp-content/uploads/2015/12/SamplePhotoShed4.jpg)
 
-![SamplePhotoShed5](/wp-content/uploads/2015/12/SamplePhotoShed5.jpg)
+![SamplePhotoShed5]({{site.baseurl}}/wp-content/uploads/2015/12/SamplePhotoShed5.jpg)
 
 Téléchargement :
 
-  * Source et exécutable : <a class="external text" href="http://stevefuchs.fr/projects/PhotoShed.zip" rel="nofollow">PhotoShed.zip</a>
+  * Source et exécutable : <a class="external text" href="https://stevefuchs.fr/projects/PhotoShed.zip" rel="nofollow">PhotoShed.zip</a>
