@@ -13,7 +13,7 @@ tags: [Ford Focus 2, Mécanique]
 
 La vidange est à faire tout les 20.000 km, le filtre à huile se change au même moment.
 
-## _**L&rsquo;huile**_
+## L&rsquo;huile
 
 Utiliser de la 5W30 (si vous avez une 1.8 TDCI comme moi), mais apparemment une 5W40 ou une 10W40 peut aussi faire l&rsquo;affaire (voir d&rsquo;autres).
 
@@ -29,7 +29,7 @@ L&rsquo;achat d&rsquo;une marque moins réputée peut réduire cette facture, il
 
 Il faut 5,60 litres d&rsquo;huile pour la Focus, alors prévoir un bidon de 5L + un bidon d&rsquo;appoint de 1 ou 2 litres, ou bien 2 de 5L (si vous pouvez l&rsquo;entreposer pour la prochaine révision).
 
-## _**Le filtre à huile**_
+## Le filtre à huile
 
 Il se présente comme ça (en pièce d&rsquo;origine Ford) :
 
@@ -45,7 +45,7 @@ Acheté 21,72 € chez Ford le 21/07/2012.
 
 Je l&rsquo;ai également trouvé chez Oscaro.com à 9,86 € (Filtre à huile BOSCH F 026 407 017).
 
-## _**Le bouchon de vidange  
+## Le bouchon de vidange  
 **_ 
 
 Sur la Focus 2, il n&rsquo;est pas forcément nécessaire de remplacer le bouchon si le joint est encore en bon état. Sinon on peut parfois recevoir un joint gratuitement avec le filtre au guichet des pièces Ford, ou on peut acheter un bouchon complet :
@@ -60,8 +60,7 @@ Acheté chez Ford, 11,94 € la pièce.
 
 J&rsquo;ai également acheté cette pièce sur Oscaro.com à 9,97 € (« Bouchon de vidange ELRING 012.000 »).
 
-## _**Opérations  
-**_ 
+## Opérations  
 
 Remplacement plutôt facile&#8230; si on a une fosse ou un moyen d&rsquo;élever le véhicule :
 
@@ -105,7 +104,7 @@ Le filtre à air doit être remplacé tout les 60.000 km (ou 40.00 km).
 
 Acheté chez Ford 26,87 €, ou sur Oscaro.com 13,57 € (Filtre à air MANN-FILTER C 16 134/1).
 
-## _**Opérations**_
+## Opérations
 
 Le filtre à air est plutôt simple à remplacer.
 

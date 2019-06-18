@@ -21,7 +21,7 @@ author: Steve Fuchs
   #line in _config.yml. It will appear in your document head meta (for
   #Google search results) and in your feed.xml site description.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://stevefuchs.fr" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: steve6768
 github_username:  cpc67128
 linkedin_username: fuchssteve 
@@ -38,7 +38,7 @@ plugins:
 disqus:
     # Leave shortname blank to disable comments site-wide.
     # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-    shortname: #steve-fuchs-blog
+    shortname: steve-fuchs-blog
 
 
 # Exclude from processing.
