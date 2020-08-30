@@ -1,13 +1,22 @@
 ---
-title: Utilisation librairie dbatools dans un pipeline Azure DevOps Server
-date: 2019-08-14
+title: Cheat Sheet / Powershell
 author: Steve
 layout: post
-permalink: /2019/08/14/utilisation-dbatools-powershell-task-azure-devops-server/
+permalink: /cheat-sheet-powershell/
 categories: [Développement]
-tags: [Azure DevOps Server, PowerShell]
+tags: [PowerShell]
 ---
-# Description du problème
+# Ajouter une extension à tout les fichiers d'un répertoire
+
+Dans un répertoire, pour ajouter une extension (par exemple .jpg) à tous les fichiers d'un répertoire, on peut utiliser le script ci dessous.
+
+{% highlight PowerShell %}
+gci -ex "*.jpg" | ?{!$_.PsIsContainer} | ren -new {$_.name + ".jpg"}
+{% endhighlight %}
+
+# Utilisation librairie dbatools dans un pipeline Azure DevOps Server
+
+## Description du problème
 
 L'utilisation des fonctions de la librairie dbatools (Restore-DbaDatabase par exemple) dans une tâche PowerShell dans un pipeline de build Azure DevOps Server retourne une erreur "The term 'xxx' is not recognized as the name of a cmdlet, function, script file, or operable program".
 
@@ -45,7 +54,7 @@ Le log retourné (la tâche a finie en erreur)
 2019-08-14T10:05:31.7659253Z ##[section]Finishing: restore database XXX from prod
 {% endhighlight %}
 
-# Résolution
+## Résolution
 
 Il semble que l'exécution d'un tâche PowerShell au niveau d'un agent n'a pas accès à l'ensemble des librairies de l'hôte, car il devrait s'exécuter avec des privilèges avancés.
 

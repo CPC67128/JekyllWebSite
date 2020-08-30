@@ -1,26 +1,24 @@
 ---
 id: 551
-title: Projet Raspberry Pi / Fin des premiers tests
+title: Découverte Raspberry Pi
 date: 2013-05-01T10:06:39+01:00
 author: Steve
 layout: post
 guid: http://stevefuchs.fr/wordpress/?p=551
-permalink: /2013/05/01/projet-raspberry-pi-fin-des-premiers-tests/
+permalink: /decouverte-raspberry-pi/
 categories: [RasPi-Somfy]
 ---
-Voici quelques photos du projet jusque là.
-
-Le code source utilisé pour les tests est archivé [ici](http://stevefuchs.fr/projects/Raspberry-Pi-master.zip).
+Voici quelques photos et captures d'un projet pour découvrir les options offertes par le Raspberry Pi.
 
 L&rsquo;installation complète :  
 
 ![-]({{site.baseurl}}/wp-content/uploads/2013/05/DSC02127MIN.jpg)
 
-La partie LED, rien d&rsquo;exceptionnel (une résistance + une LED) :  
+La partie LED (une résistance + une LED) :
 
 ![-]({{site.baseurl}}/wp-content/uploads/2013/05/DSC02132MIN.jpg)
 
-La partie température, une résistance et une sonde DS1820 :  
+La partie température, une résistance et une sonde DS18x20 ([How to use DS18x20 1-wire temperature sensors with the Raspberry PI](http://webshed.org/wiki/RaspberryPI_DS1820#How_to_use_DS18x20_1-wire_temperature_sensors_with_the_Raspberry_PI)) :  
 
 ![-]({{site.baseurl}}/wp-content/uploads/2013/05/DSC02133MIN.jpg)
 

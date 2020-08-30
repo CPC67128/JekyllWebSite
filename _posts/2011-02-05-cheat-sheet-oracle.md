@@ -1,14 +1,15 @@
 ---
 id: 1150
-title: Changer le port ApEx Oracle express edition
-date: 2011-02-05T22:57:33+01:00
+title: Cheat Sheet / Oracle
 author: Steve
 layout: post
 guid: http://stevefuchs.fr/wordpress/?p=1150
-permalink: /2011/02/05/changer-le-port-apex-oracle-express-edition/
+permalink: /cheat-sheet-oracle/
 categories: [Développement]
 tags: [BDD, Oracle]
 ---
+# Changer le port ApEx Oracle express edition
+
 Après l’installation d’Oracle XE, la console d’administration web ApEx est installé sur le port 8080. Ce port est également utilisé par d’autres outils comme JBoss par exemple.
 
 Pour changer ce port, la marche à suivre est la suivante :
