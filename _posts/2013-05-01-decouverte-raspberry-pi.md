@@ -5,7 +5,7 @@ date: 2013-05-01T10:06:39+01:00
 author: Steve
 layout: post
 guid: http://stevefuchs.fr/wordpress/?p=551
-permalink: /decouverte-raspberry-pi/
+permalink: /posts/decouverte-raspberry-pi/
 categories: [RasPi-Somfy]
 ---
 Voici quelques photos et captures d'un projet pour découvrir les options offertes par le Raspberry Pi.

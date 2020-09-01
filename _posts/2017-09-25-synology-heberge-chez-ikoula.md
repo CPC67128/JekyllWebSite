@@ -5,7 +5,7 @@ date: 2017-09-25T21:32:53+01:00
 author: Steve
 layout: post
 guid: http://stevefuchs.fr/wordpress/?p=1935
-permalink: /2017/09/25/synology-heberge-chez-ikoula/
+permalink: /posts/synology-heberge-chez-ikoula/
 categories: [Hardware]
 tags: [synology]
 ---

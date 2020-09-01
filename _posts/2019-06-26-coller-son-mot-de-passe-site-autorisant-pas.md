@@ -3,7 +3,7 @@ title: Coller son mot de passe sur un site ne l'autorisant pas
 date: 2019-06-26
 author: Steve
 layout: post
-permalink: /2019/06/26/coller-son-mot-de-passe-site-autorisant-pas/
+permalink: /posts/coller-son-mot-de-passe-site-autorisant-pas/
 categories: [Hack]
 tags: [JavaScript]
 ---

@@ -5,7 +5,7 @@ date: 2016-06-14T20:29:00+01:00
 author: Steve
 layout: post
 guid: http://stevefuchs.fr/wordpress/?p=1520
-permalink: /2016/06/14/inscription-free/
+permalink: /posts//inscription-free/
 categories: [365]
 ---
 Sûrement suite à mon inscription à Free Mobile, je reçois un appel le mercredi 1er Juin 2016 du call center de Free.

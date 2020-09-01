@@ -3,7 +3,7 @@ title: Domotique / Pilotage de mes volets roulants Somfy IO
 date: 2020-08-29
 author: Steve
 layout: post
-permalink: /domotique-pilotage-volets-roulants-somfy-io/
+permalink: /posts/domotique-pilotage-volets-roulants-somfy-io/
 categories: [RasPi-Somfy]
 ---
 # Histoire du projet
@@ -86,9 +86,13 @@ Mon choix actuel est [Jeedom](https://www.jeedom.com/fr/). La configuration au n
 
 # Pourquoi avoir des piles ?
 
-A la télécommande Somfy Telis 1 IO de mon installation
+A la télécommande Somfy Telis 1 IO présente dans mon installation, j'ai ajouté une autre télécommande afin de pouvoir gérer certains volets seulement.
 
-Les télécommandes Somfy Telis 1 IO utilisent 2 piles 1,5v. J'ai repéré que le Raspberry Pi fournissait sur une de ces broches une alimentation 3,3v.
+![-]({{site.baseurl}}/assets/Scan2020-08-30_213137.png)
+
+Les télécommandes Somfy Telis 1 IO utilisent 2 piles 1,5v. Et je voulais que mon installation soit alimentée par le secteur.
+
+J'ai repéré que le Raspberry Pi fournissait sur une de ces broches une alimentation 3,3v.
 
 J'ai connecté cette alimentation aux télécommandes pour supprimer les piles. J'ai lu qu'il y avait une limitation à 500mA, ce qui me parait suffisant.
 

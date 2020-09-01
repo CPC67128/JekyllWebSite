@@ -3,7 +3,7 @@ title: Entretien Ford Focus 2
 author: Steve
 layout: post
 guid: http://stevefuchs.fr/wordpress/?p=245
-permalink: /entretien-ford-focus-2/
+permalink: /posts/entretien-ford-focus-2/
 categories: [365]
 tags: [Ford Focus 2, Mécanique]
 ---

@@ -5,7 +5,7 @@ date: 2017-08-14T20:03:59+01:00
 author: Steve
 layout: post
 guid: http://stevefuchs.fr/wordpress/?p=1816
-permalink: /2017/08/14/changement-ventilateur-synology-ds216ii/
+permalink: /posts/changement-ventilateur-synology-ds216ii/
 categories: [Hardware]
 tags: [NAS,silence,stockage,synology]
 ---

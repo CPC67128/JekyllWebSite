@@ -5,7 +5,7 @@ date: 2017-02-25T14:21:02+01:00
 author: Steve
 layout: post
 guid: http://stevefuchs.fr/wordpress/?p=1687
-permalink: /2017/02/25/changement-manchon-de-laspirateur-rowenta-air-force/
+permalink: /posts//changement-manchon-de-laspirateur-rowenta-air-force/
 categories: [365]
 ---
 Le manchon de mon aspirateur balai sans sac Rowenta Air Force 24V (RH8565.01) s&rsquo;est fendu après environ 3 ans.

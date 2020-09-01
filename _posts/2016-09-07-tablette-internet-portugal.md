@@ -5,7 +5,7 @@ date: 2016-09-07T21:38:12+01:00
 author: Steve
 layout: post
 guid: http://stevefuchs.fr/wordpress/?p=1577
-permalink: /2016/09/07/tablette-internet-portugal/
+permalink: /posts//tablette-internet-portugal/
 categories: [Hardware]
 ---
 Un proche m&rsquo;a parlé d&rsquo;un besoin « Je vais au Portugal en vacances et j&rsquo;aimerais que tu m&rsquo;achètes une tablette, dans les 300 ou 400 €, pour que je puisse accéder à Internet quand je suis là-bas d&rsquo;un peu n&rsquo;importe où ».

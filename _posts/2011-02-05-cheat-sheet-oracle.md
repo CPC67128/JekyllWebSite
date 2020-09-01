@@ -4,7 +4,7 @@ title: Cheat Sheet / Oracle
 author: Steve
 layout: post
 guid: http://stevefuchs.fr/wordpress/?p=1150
-permalink: /cheat-sheet-oracle/
+permalink: /posts/cheat-sheet-oracle/
 categories: [Développement]
 tags: [BDD, Oracle]
 ---

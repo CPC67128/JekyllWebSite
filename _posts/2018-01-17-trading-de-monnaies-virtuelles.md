@@ -5,7 +5,7 @@ date: 2018-01-17T21:06:20+01:00
 author: Steve
 layout: post
 guid: http://stevefuchs.fr/wordpress/?p=2046
-permalink: /2018/01/17/trading-de-monnaies-virtuelles/
+permalink: /posts/trading-de-monnaies-virtuelles/
 categories: [365]
 tags: [finance]
 ---

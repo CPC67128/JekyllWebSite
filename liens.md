@@ -22,6 +22,7 @@ guid: http://stevefuchs.fr/wordpress/?page_id=1674
 * [FreeROMS.com](http://www.freeroms.com/)
 * [Amstrad TODAY](http://www.amstradtoday.com/)
 * [Planet Emulation](http://www.planetemu.net/)
+* [Cyber-Chicken](http://www.cc-cpc.de/)
 
 # AX 2012
 

@@ -224,7 +224,7 @@
 .post-content {
   margin-bottom: $spacing-unit;
 
-  h2 {
+  h1 { /* Ajouté car h1 plus petit que h2, donc j'ai remonté les styles d'un niveau */
     @include relative-font-size(2);
 
     @include media-query($on-laptop) {
@@ -232,11 +232,19 @@
     }
   }
 
-  h3 {
+  h2 {
     @include relative-font-size(1.625);
 
     @include media-query($on-laptop) {
       @include relative-font-size(1.375);
+    }
+  }
+
+  h3 {
+    @include relative-font-size(1.25);
+
+    @include media-query($on-laptop) {
+      @include relative-font-size(1.125);
     }
   }
 
