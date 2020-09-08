@@ -20,6 +20,7 @@ guid: http://stevefuchs.fr/wordpress/?page_id=1674
 # Divers
 
 * [PowerShell Explained](https://powershellexplained.com/)
+* [Le site national des adresses (API)](https://adresse.data.gouv.fr/)
 
 # Abandonwares
 
