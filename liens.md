@@ -17,6 +17,10 @@ guid: http://stevefuchs.fr/wordpress/?page_id=1674
 * [TFS Process Template Editor](https://marketplace.visualstudio.com/items?itemName=KarthikBalasubramanianMSFT.TFSProcessTemplateEditor)
 * [The .NET Portability Analyzer](https://docs.microsoft.com/en-us/dotnet/standard/analyzers/portability-analyzer)
 
+# Divers
+
+* [PowerShell Explained](https://powershellexplained.com/)
+
 # Abandonwares
 
 * [Recalbox 6.1 (retrogaming en speed install ~15min)](https://www.youtube.com/watch?v=aBfIWLWCDyY&t=994s)
@@ -176,6 +180,7 @@ guid: http://stevefuchs.fr/wordpress/?page_id=1674
 * [RPi USB Webcams](http://elinux.org/RPi_USB_Webcams)
 * [Mettre en place une Raspberry Pi sans écran ni clavier](https://raspbian-france.fr/raspberry-pi-sans-ecran-sans-clavier/)
 * [Backing up and Restoring your Raspberry Pi&#039;s SD Card](https://thepihut.com/blogs/raspberry-pi-tutorials/17789160-backing-up-and-restoring-your-raspberry-pis-sd-card)
+* [Installer la dernière version de wiringpi sur Raspbian Buster](https://www.framboise314.fr/installer-la-derniere-version-de-wiringpi-sur-raspbian-buster/)
 
 # Réseau
 
