@@ -19,6 +19,7 @@ guid: http://stevefuchs.fr/wordpress/?page_id=1674
 
 # Abandonwares
 
+* [Recalbox 6.1 (retrogaming en speed install ~15min)](https://www.youtube.com/watch?v=aBfIWLWCDyY&t=994s)
 * [FreeROMS.com](http://www.freeroms.com/)
 * [Amstrad TODAY](http://www.amstradtoday.com/)
 * [Planet Emulation](http://www.planetemu.net/)
