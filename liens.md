@@ -57,6 +57,7 @@ guid: http://stevefuchs.fr/wordpress/?page_id=1674
 * [VirtualBox](https://www.virtualbox.org/)
 * [Scilab, Open source software for numerical computation](https://www.scilab.org)
 * [Figma (Prototype UI)](https://www.figma.com/)
+* [Zim - A Desktop Wiki](https://zim-wiki.org/)
 
 # C
 
@@ -140,6 +141,7 @@ guid: http://stevefuchs.fr/wordpress/?page_id=1674
 * [Chillispot : portail captif (hotspot)](http://www.chillispot.org/)
 * [Headless Mac Mini with Ubuntu](http://blog.nickoneill.name/headless-mac-mini-with-ubuntu/)
 * [RECOMMANDATIONS DE SÉCURITÉ RELATIVES À UN SYSTÈME GNU/LINUX / ANSSI](https://www.ssi.gouv.fr/particulier/guide/recommandations-de-securite-relatives-a-un-systeme-gnulinux/)
+* [phpIPAM - Gestion d'adresses IP](https://phpipam.net/)
 
 # Linux Debian
 
