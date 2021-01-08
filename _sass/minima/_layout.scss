@@ -9,7 +9,7 @@
   position: relative;
 
   //background-color: #f8f8f8;
-  background-color: #fafafa;
+  background-color: #333333;
 }
 
 .site-title {
@@ -26,6 +26,13 @@
   }
 }
 
+a {
+  &,
+  &:visited {
+  color: #CCCCCC;
+  }
+}
+
 .site-nav {
   float: right;
   line-height: $base-line-height * $base-font-size * 2.25;
@@ -39,7 +46,7 @@
   }
 
   .page-link {
-    color: $text-color;
+    color: #CCCCCC;
     line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one
@@ -112,7 +119,7 @@
   padding: $spacing-unit 0;
   //background-color: #f8f8f8;
 
-  background-color: #f8f8f8;
+  background-color: #333333;
 }
 
 .footer-heading {
@@ -131,6 +138,8 @@
   color: $grey-color;
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
+
+
 }
 
 .footer-col {
@@ -199,6 +208,11 @@
 
 .post-link {
   display: block;
+  &,
+  &:visited {
+
+  color: #CCCCCC;
+  }
   // @include relative-font-size(1.5);
 }
 
