@@ -84,6 +84,7 @@ guid: http://stevefuchs.fr/wordpress/?page_id=1674
 * [L&#039;évolution du web, animation](http://evolutionofweb.appspot.com/)
 * [Les raccourcis d&#039;Eclipse](http://thierry-leriche-dessirier.developpez.com/tutoriels/eclipse/raccourcis/)
 * [Git Community Book](http://www.alexgirard.com/git-book/1_le_mod%25C3%25A8le_objet_git.html)
+* [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 # Domotique
 
