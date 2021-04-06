@@ -59,6 +59,7 @@ guid: http://stevefuchs.fr/wordpress/?page_id=1674
 * [Figma (Prototype UI)](https://www.figma.com/)
 * [Zim - A Desktop Wiki](https://zim-wiki.org/)
 * [This Person Does Not Exist](https://thispersondoesnotexist.com/)
+* [Personal CRM / Monica](https://www.monicahq.com/)
 
 # C
 
