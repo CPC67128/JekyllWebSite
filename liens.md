@@ -60,6 +60,7 @@ guid: http://stevefuchs.fr/wordpress/?page_id=1674
 * [Zim - A Desktop Wiki](https://zim-wiki.org/)
 * [This Person Does Not Exist](https://thispersondoesnotexist.com/)
 * [Personal CRM / Monica](https://www.monicahq.com/)
+* [Coggle (Mind Mapping)](https://coggle.it/)
 
 # C
 
