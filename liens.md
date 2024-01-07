@@ -61,6 +61,7 @@ guid: http://stevefuchs.fr/wordpress/?page_id=1674
 * [This Person Does Not Exist](https://thispersondoesnotexist.com/)
 * [Personal CRM / Monica](https://www.monicahq.com/)
 * [Coggle (Mind Mapping)](https://coggle.it/)
+* [NetBox (Inventaire réseau)](https://docs.netbox.dev/)
 
 # C
 
