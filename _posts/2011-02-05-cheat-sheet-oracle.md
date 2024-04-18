@@ -1,6 +1,6 @@
 ---
 id: 1150
-title: Cheat Sheet / Oracle
+title: Cheat Sheet / Oracle - TEST
 author: Steve
 layout: post
 guid: http://stevefuchs.fr/wordpress/?p=1150
