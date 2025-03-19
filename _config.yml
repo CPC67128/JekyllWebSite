@@ -8,6 +8,9 @@ author:
 description: >
   Blog of Steve Fuchs
 
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://stevefuchs.fr" # the base hostname & protocol for your site, e.g. http://example.com
+
 # Build settings
 
 # If you clone the Minima repo and build locally, use this setting.
@@ -22,6 +25,10 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+webmaster_verifications:
+  google: UA-32607155-1
+google_site_verification: UA-32607155-1
+
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
   # Minima skin selection.
@@ -32,7 +39,7 @@ minima:
   # solarized-light	   Light variant of solarized color scheme.
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
-  skin: classic
+  skin: dark
 
   # If you want to link only specific pages in the site-navigation, use this and list
   # the `path` property (as represented via Liquid) of the pages in the order they should
@@ -63,6 +70,8 @@ minima:
       icon: linkedin
       url: "https://www.linkedin.com/in/fuchssteve/"
 
-
-minima:
-  skin: dark
+# Disqus Comments
+disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+    shortname: steve-fuchs-blog
