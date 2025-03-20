@@ -5,8 +5,8 @@ author:
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
-description: >
-  Blog of Steve Fuchs
+# description: >
+#   Mon bloc 
 
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: https://stevefuchs.fr # the base hostname & protocol for your site, e.g. http://example.com
@@ -23,6 +23,8 @@ theme: minima
 # If you want to use the latest Minima version on GitHub Pages, use the following setting and 
 # add a line comment on "theme: minima" above.
 #remote_theme: jekyll/minima
+
+locale: "fr_FR"
 
 plugins:
   - jekyll-feed

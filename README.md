@@ -92,3 +92,18 @@ Bundle updated!
 https://cuda-chen.github.io/blogging/2020/03/28/add-Disqus-to-Jekyll-Minima-theme-simplified.html
 
 
+
+
+### Switch dates to French format
+
+Add the following Gemfile:
+
+ gem 'jekyll-localization'
+
+Then
+
+ bundle install
+
+Add the following to _config.yml
+
+ locale: "fr_FR"
