@@ -200,7 +200,7 @@ pre {
  * Wrapper
  */
 .wrapper {
-  max-width: $content-width;
+  max-width: $content-width;  // Remove to do full size
   margin: 0 auto;
   padding: 0 $spacing-unit;
   @extend %clearfix;
