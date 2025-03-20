@@ -9,7 +9,10 @@ description: >
   Blog of Steve Fuchs
 
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://stevefuchs.fr" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://stevefuchs.fr # the base hostname & protocol for your site, e.g. http://example.com
+
+github_username:  cpc67128
+linkedin_username: fuchssteve 
 
 # Build settings
 
