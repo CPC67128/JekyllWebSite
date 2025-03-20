@@ -24,8 +24,6 @@ theme: minima
 # add a line comment on "theme: minima" above.
 #remote_theme: jekyll/minima
 
-locale: "fr_FR"
-
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
