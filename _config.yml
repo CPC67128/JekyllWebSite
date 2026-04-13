@@ -83,9 +83,9 @@ disqus:
     shortname: steve-fuchs-blog
 
 exclude:
-  - Build_Development.bat
-  - Build_Production.bat
   - minima.gemspec
   - README.md
   - Dockerfile
+  - Dockerfile.prod
+  - nginx.conf
   - script/
