@@ -1,4 +1,5 @@
 title: Steve Fuchs - Blog
+lang: fr
 author:
   name: Steve Fuchs
 #  email: your-email@domain.com
@@ -6,42 +7,44 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 # description: >
-#   Mon bloc 
+#   Mon blog
 
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: https://stevefuchs.fr # the base hostname & protocol for your site, e.g. http://example.com
 
-github_username:  cpc67128
-linkedin_username: fuchssteve 
+github_username: cpc67128
+linkedin_username: fuchssteve
 
 # Build settings
 
 # If you clone the Minima repo and build locally, use this setting.
 theme: minima
 
-# As of November 2023, GitHub Pages still uses Minima 2.5.1 (https://pages.github.com/versions/). 
-# If you want to use the latest Minima version on GitHub Pages, use the following setting and 
+# As of November 2023, GitHub Pages still uses Minima 2.5.1 (https://pages.github.com/versions/).
+# If you want to use the latest Minima version on GitHub Pages, use the following setting and
 # add a line comment on "theme: minima" above.
 #remote_theme: jekyll/minima
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 
-webmaster_verifications:
-  google: UA-32607155-1
-google_site_verification: UA-32607155-1
+# Google Analytics 4
+# Replace with your GA4 Measurement ID (format: G-XXXXXXXXXX).
+# Universal Analytics (UA-XXXXXXX) was shut down in July 2023.
+#google_analytics: G-XXXXXXXXXX
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
   # Minima skin selection.
   # Available skins are:
-  # classic	           Default, light color scheme.
-  # dark	             Dark variant of the classic skin.
-  # auto	             Adaptive skin based on the default classic and dark skins.
-  # solarized-light	   Light variant of solarized color scheme.
-  # solarized-dark	   Dark variant of solarized color scheme.
-  # solarized	         Adaptive skin for solarized color scheme skins.
+  # classic          Default, light color scheme.
+  # dark             Dark variant of the classic skin.
+  # auto             Adaptive skin based on the default classic and dark skins.
+  # solarized-light  Light variant of solarized color scheme.
+  # solarized-dark   Dark variant of solarized color scheme.
+  # solarized        Adaptive skin for solarized color scheme skins.
   skin: dark
 
   # If you want to link only specific pages in the site-navigation, use this and list
@@ -54,7 +57,7 @@ minima:
   #show_excerpts: false
 
   # Minima date format.
-  # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
+  # The default value is "%b %d, %Y" (e.g. Nov 14, 2023)
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
   #date_format: "%b-%d-%Y"
 
@@ -84,3 +87,5 @@ exclude:
   - Build_Production.bat
   - minima.gemspec
   - README.md
+  - Dockerfile
+  - script/
