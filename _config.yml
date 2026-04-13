@@ -9,7 +9,7 @@ author:
 # description: >
 #   Mon blog
 
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # served from the site root
 url: https://stevefuchs.fr # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username: cpc67128
