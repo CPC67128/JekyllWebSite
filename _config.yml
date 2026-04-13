@@ -88,4 +88,5 @@ exclude:
   - Dockerfile
   - Dockerfile.prod
   - nginx.conf
+  - disqus-url-map.csv
   - script/
