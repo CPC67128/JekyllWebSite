@@ -1,109 +1,118 @@
-# Jekyll Web Site
+# stevefuchs.fr — Jekyll Blog
 
-## Building using commands line (obsolete)
+Personal tech blog built with [Jekyll 4](https://jekyllrb.com/) and the [Minima 3](https://github.com/jekyll/minima) theme (dark skin), served via nginx.
 
- jekyll -v
+Live site: **https://stevefuchs.fr**
 
- C:\Repositories\JekyllWebSite>bundle update jekyll
+---
 
- C:\Repositories\JekyllWebSite>bundle update
+## Stack
 
-## Building using Docker
+| Layer | Technology |
+|---|---|
+| Static site generator | Jekyll 4.4.1 |
+| Theme | Minima 3.0.0.dev (local, dark skin) |
+| Comments | Disqus (`steve-fuchs-blog`) |
+| CSS | Sass / sass-embedded |
+| Production server | nginx:alpine (Docker) |
+| CI/CD | GitHub Actions — self-hosted runner |
+| Container registry | `192.168.1.192:5000` |
 
-docker run --rm --label=jekyll --volume=C:\Private\Repositories\JekyllWebSite:/srv/jekyll  -it -p 4000:4000 jekyll/jekyll:3.7.3 jekyll serve
+---
 
-Testing: http://127.0.0.1:4000/blog/
+## Local development
 
-Reference article followed: [Running Jekyll in Windows Using Docker](https://www.jamessturtevant.com/posts/Running-Jekyll-in-Windows-using-Docker/)
+Ruby is not required locally. Use Docker:
 
-## Reference articles
+```bash
+# Build the dev image (first time or after gem changes)
+docker build -t jekyll-site .
 
-* Error faced when switching to generation via docker image: [jekyll error building page related to kramdown parser](https://stackoverflow.com/questions/63335953/jekyll-error-building-page-related-to-kramdown-parser)
+# Start the dev server with live reload
+docker run -d --name jekyll-dev -p 4000:4000 jekyll-site
 
+# View logs
+docker logs jekyll-dev
 
-Upgrade from v3 to v4
+# Stop
+docker stop jekyll-dev
+```
 
-Brand new installation of Ruby: rubyinstaller-devkit-3.3.7-1-x64.exe
+Site is available at **http://localhost:4000/**
 
-Trying to build : NOK
+---
 
-https://jekyllrb.com/docs/upgrading/3-to-4/
+## Production build
 
-cd C:\Repositories\JekyllWebSite
-gem update jekyll
+The production image uses a multi-stage build: Jekyll compiles the site, then nginx:alpine serves the static output.
 
-NOK
+```bash
+# Build
+docker build -f Dockerfile.prod -t 192.168.1.192:5000/stevefuchs-fr:latest .
 
-updated _config.yml with excludes listed
+# Push to local registry
+docker push 192.168.1.192:5000/stevefuchs-fr:latest
 
-bundle update jekyll
+# Run locally to test
+docker run -d -p 80:80 192.168.1.192:5000/stevefuchs-fr:latest
+```
 
-Updated Gemfile
+---
 
-https://stackoverflow.com/questions/4402819/download-all-gems-dependencies
-bundle install
+## CI/CD
 
-NOK
+Every push to `master` triggers `.github/workflows/build.yml` on the self-hosted runner:
 
-bundle update --bundler
+1. Checkout source
+2. `docker build` via `Dockerfile.prod` (with layer cache from previous image)
+3. `docker push` to `192.168.1.192:5000/stevefuchs-fr:latest`
 
-Note: this command is to keep to try first next time
+---
 
-PS C:\Repositories\JekyllWebSite> jekyll build
-C:/Users/steve/.local/share/gem/ruby/3.3.0/gems/bundler-2.6.6/lib/bundler/runtime.rb:314:in `check_for_activated_spec!': You have already activated public_suffix 6.0.1, but your Gemfile requires public_suffix 4.0.7. Prepending `bundle exec` to your command may solve this. (Gem::LoadError)
+## Gem management
 
-Updated gemfile.lock : public_suffix (6.0.1)
+Gems are locked in `Gemfile.lock`. To update:
 
-but then:
+```bash
+# Update all gems
+docker run --rm -v "$(pwd):/site" jekyll-site bundle update
 
-PS C:\Repositories\JekyllWebSite> jekyll build
-Resolving dependencies...
-C:/Users/steve/.local/share/gem/ruby/3.3.0/gems/bundler-2.6.6/lib/bundler/runtime.rb:314:in `check_for_activated_spec!': You have already activated concurrent-ruby 1.3.5, but your Gemfile requires concurrent-ruby 1.2.3. Prepending `bundle exec` to your command may solve this. (Gem::LoadError)
+# Update a specific gem
+docker run --rm -v "$(pwd):/site" jekyll-site bundle update <gem-name>
+```
 
-Non sense
+Commit the resulting `Gemfile.lock`.
 
-> bundler update
+---
 
-bundle outdated
+## Key files
 
-PS C:\Repositories\JekyllWebSite> bundle outdated
-Fetching gem metadata from https://rubygems.org/...........
-Resolving dependencies...
+| File | Purpose |
+|---|---|
+| `_config.yml` | Site settings, plugins, Minima/Disqus config |
+| `Gemfile` / `Gemfile.lock` | Ruby dependencies |
+| `Dockerfile` | Dev image (`jekyll serve --watch`) |
+| `Dockerfile.prod` | Production image (multi-stage Jekyll + nginx) |
+| `nginx.conf` | nginx config for static Jekyll site |
+| `.github/workflows/build.yml` | CI/CD pipeline |
+| `disqus-url-map.csv` | URL migration map for Disqus (one-time use) |
+| `minima.gemspec` | Local Minima 3.0.0.dev gem definition |
 
-Gem                    Current  Latest  Requested  Groups
-liquid                 4.0.4    5.8.2
-terminal-table         3.0.2    4.0.0
-unicode-display_width  2.6.0    3.1.4
+---
 
+## Google Analytics
 
+GA4 is ready but disabled. Add your Measurement ID to `_config.yml`:
 
-bundle update liquid
+```yaml
+google_analytics: G-XXXXXXXXXX
+```
 
-PS C:\Repositories\JekyllWebSite> bundle update liquid
-Fetching gem metadata from https://rubygems.org/..........
-Resolving dependencies...
-Resolving dependencies...
-Bundler attempted to update liquid but its version stayed the same
-Bundle updated!
+---
 
+## Disqus URL migration
 
+If you changed `baseurl` and need to remap Disqus threads, use `disqus-url-map.csv`:
 
-
-https://cuda-chen.github.io/blogging/2020/03/28/add-Disqus-to-Jekyll-Minima-theme-simplified.html
-
-
-
-
-### Switch dates to French format
-
-Add the following Gemfile:
-
- gem 'jekyll-localization'
-
-Then
-
- bundle install
-
-Add the following to _config.yml
-
- locale: "fr_FR"
+1. Go to https://steve-fuchs-blog.disqus.com/admin/discussions/migrate/
+2. Upload `disqus-url-map.csv` via the URL Mapper tool
