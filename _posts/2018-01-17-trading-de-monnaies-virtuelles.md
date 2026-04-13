@@ -1,4 +1,4 @@
----
+﻿---
 id: 2046
 title: Trading de monnaies virtuelles
 date: 2018-01-17T21:06:20+01:00
@@ -13,7 +13,7 @@ Pour expérimenter le trading de cryptomonnaies (Bitcoin et autres), j&rsquo;ai 
 
 Je me suis alors tourné vers la plateforme [Coinbase](https://www.coinbase.com/join/5a4e8f80d920eb0524bceec2) (lien avec code de parrainage). Le site est rapide et traduit en français en plus. Aucun problème pour créer un compte. La vérification d&rsquo;identité se fait en présentant une pièce d&rsquo;identité via sa webcam ou son mobile, sur une page Internet dont le lien est envoyé par sms (n&rsquo;a pas fonctionné pour moi) ou sur l&rsquo;application mobile Coinbase que j&rsquo;ai utilisé.
 
-![-]({{site.baseurl}}/wp-content/uploads/2018/01/2018-01-05_235032.png)
+![-]({{site.baseurl}}/assets/uploads/2018/01/2018-01-05_235032.png)
 
 Une fois l&rsquo;identité vérifiée, on peut commencer à acheter du Bitcoin ou les autres monnaies gérées par Coinbase, avec sa carte bancaire qu&rsquo;on aura préalablement enregistrée. C&rsquo;est très simple.
 
@@ -39,7 +39,7 @@ Les frais Coinbase sont constants jusqu&rsquo;au plafond d&rsquo;achat possible 
 
 Mon portefeuille est dorénavant près pour démarrer les cycles de ventes et d&rsquo;achats pour essayer de le faire fructifier&#8230;
 
-![-]({{site.baseurl}}/wp-content/uploads/2018/01/2018-01-06_000608.png)
+![-]({{site.baseurl}}/assets/uploads/2018/01/2018-01-06_000608.png)
 
 **Mise à jour 10 Janvier 2018**
 
@@ -47,16 +47,16 @@ Mon portefeuille est dorénavant près pour démarrer les cycles de ventes et d&
 
 Mon portefeuille est le suivant:
 
-![-]({{site.baseurl}}/wp-content/uploads/2018/01/2018-01-10_181739.png)
+![-]({{site.baseurl}}/assets/uploads/2018/01/2018-01-10_181739.png)
 
 L&rsquo;Ethereum a fait un bond de +25%, le Bitcoin a chuté de -18%.
 
 La valorisation totale est de 62,24 €. En vendant les deux lignes (frais de 1€ par ligne), je pourrais récupérer les 60 € misé au départ.
 
-![-]({{site.baseurl}}/wp-content/uploads/2018/01/2018-01-10_205707.png)
+![-]({{site.baseurl}}/assets/uploads/2018/01/2018-01-10_205707.png)
 
 **Mise à jour 17 Janvier 2018**
 
 Les cours ont fortement chuté. Pour illustrer mon propos, voici le cours du bitcoin sur les 7 derniers jours. Ça illustre bien les fluctuations vertigineuses que le cours des cryptomonnaies peut subir.
 
-![-]({{site.baseurl}}/wp-content/uploads/2018/01/2018-01-17_210454.png)
+![-]({{site.baseurl}}/assets/uploads/2018/01/2018-01-17_210454.png)

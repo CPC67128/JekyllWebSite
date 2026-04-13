@@ -1,4 +1,4 @@
----
+﻿---
 title: Entretien Ford Focus 2
 author: Steve
 layout: post
@@ -21,7 +21,7 @@ Utiliser de préférence une huile 100% synthèse. Je ne sais pas si les additif
 
 A titre d’exemple, pour l&rsquo;entretien des 100.000 km, j&rsquo;ai pris 2 bidons de 5L de Shell Helix Ultra Diesel AR-L:
 
-![-]({{site.baseurl}}/wp-content/uploads/2012/07/384859.jpg)
+![-]({{site.baseurl}}/assets/uploads/2012/07/384859.jpg)
 
 Achetés chez Norauto, 61,95 € le bidon (oui c&rsquo;est cher&#8230;).
 
@@ -33,13 +33,13 @@ Il faut 5,60 litres d&rsquo;huile pour la Focus, alors prévoir un bidon de 5L +
 
 Il se présente comme ça (en pièce d&rsquo;origine Ford) :
 
-![-]({{site.baseurl}}/wp-content/uploads/2012/07/IMG_20120721_110812.jpg)
+![-]({{site.baseurl}}/assets/uploads/2012/07/IMG_20120721_110812.jpg)
 
-![-]({{site.baseurl}}/wp-content/uploads/2012/07/IMG_20120721_110818.jpg)
+![-]({{site.baseurl}}/assets/uploads/2012/07/IMG_20120721_110818.jpg)
 
-![-]({{site.baseurl}}/wp-content/uploads/2012/07/IMG_20120721_110824.jpg)
+![-]({{site.baseurl}}/assets/uploads/2012/07/IMG_20120721_110824.jpg)
 
-![-]({{site.baseurl}}/wp-content/uploads/2012/07/IMG_20120721_110831.jpg)
+![-]({{site.baseurl}}/assets/uploads/2012/07/IMG_20120721_110831.jpg)
 
 Acheté 21,72 € chez Ford le 21/07/2012.
 
@@ -49,11 +49,11 @@ Je l&rsquo;ai également trouvé chez Oscaro.com à 9,86 € (Filtre à huile 
 
 Sur la Focus 2, il n&rsquo;est pas forcément nécessaire de remplacer le bouchon si le joint est encore en bon état. Sinon on peut parfois recevoir un joint gratuitement avec le filtre au guichet des pièces Ford, ou on peut acheter un bouchon complet :
 
-![-]({{site.baseurl}}/wp-content/uploads/2012/07/IMG_20120721_110943.jpg)
+![-]({{site.baseurl}}/assets/uploads/2012/07/IMG_20120721_110943.jpg)
 
-![-]({{site.baseurl}}/wp-content/uploads/2012/07/IMG_20120721_110946.jpg)
+![-]({{site.baseurl}}/assets/uploads/2012/07/IMG_20120721_110946.jpg)
 
-![-]({{site.baseurl}}/wp-content/uploads/2012/07/IMG_20120721_110958.jpg)
+![-]({{site.baseurl}}/assets/uploads/2012/07/IMG_20120721_110958.jpg)
 
 Acheté chez Ford, 11,94 € la pièce.
 
@@ -67,7 +67,7 @@ Remplacement plutôt facile&#8230; si on a une fosse ou un moyen d&rsquo;élever
   * Se placer sous la voiture
   * Retirer le cache de protection plastique (quelques vis à enlever, il empêche les projections depuis la route vers le moteur). Prévoir des clés **Torx (T27)** pour ça:
 
-  ![-]({{site.baseurl}}/wp-content/uploads/2012/07/embout-vis-torx-cruciforme.jpg)
+  ![-]({{site.baseurl}}/assets/uploads/2012/07/embout-vis-torx-cruciforme.jpg)
 
   * Localiser le carter, il y a une vis en bas sur le coté
   * Prendre une vieille bassine (contenance 6 litres au moins), vous pouvez trouver ça chez Emmaüs par exemple, et la placer sous cette vis du carter (vous pouvez la tenir le temps que le plus gros de l&rsquo;huile soit sorti
@@ -75,7 +75,7 @@ Remplacement plutôt facile&#8230; si on a une fosse ou un moyen d&rsquo;élever
   * Quand le flot d&rsquo;huile s&rsquo;arrête, il faut vous attaquer au filtre à huile. Attention, laisser la bassine en dessous car en retirant le filtre à huile, de l&rsquo;huile ressort un peu.
   * Dé-serrer le filtre à huile actuel, une clé à ruban est utile:
 
-![-]({{site.baseurl}}/wp-content/uploads/2012/07/27072.jpg)
+![-]({{site.baseurl}}/assets/uploads/2012/07/27072.jpg)
 
   * Laissez couler le restant d&rsquo;huile
   * Huilez le joint du nouveau filtre à huile. Vous pouvez utiliser la nouvelle huile moteur que vous allez mettre dans la voiture. Utilisez votre doigt pour parcourir le joint. Ceci facilitera le dé-serrage ultérieur.
@@ -93,13 +93,13 @@ Remplacement plutôt facile&#8230; si on a une fosse ou un moyen d&rsquo;élever
 
 Le filtre à air doit être remplacé tout les 60.000 km (ou 40.00 km).
 
-![-]({{site.baseurl}}/wp-content/uploads/2012/07/IMG_20120721_110850.jpg)
+![-]({{site.baseurl}}/assets/uploads/2012/07/IMG_20120721_110850.jpg)
 
-![-]({{site.baseurl}}/wp-content/uploads/2012/07/IMG_20120721_110914.jpg)  
+![-]({{site.baseurl}}/assets/uploads/2012/07/IMG_20120721_110914.jpg)  
 
-![-]({{site.baseurl}}/wp-content/uploads/2012/07/IMG_20120721_110925.jpg)
+![-]({{site.baseurl}}/assets/uploads/2012/07/IMG_20120721_110925.jpg)
 
-![-]({{site.baseurl}}/wp-content/uploads/2012/07/IMG_20120721_110947.jpg)
+![-]({{site.baseurl}}/assets/uploads/2012/07/IMG_20120721_110947.jpg)
 
 Acheté chez Ford 26,87 €, ou sur Oscaro.com 13,57 € (Filtre à air MANN-FILTER C 16 134/1).
 
@@ -127,15 +127,15 @@ Le filtre habitacle est a remplacer tout les 20.000 ou 40.000 km.
 
 _**Le filtre habitacle**_
 
-![-]({{site.baseurl}}/wp-content/uploads/2012/07/IMG_20120721_110750.jpg)
+![-]({{site.baseurl}}/assets/uploads/2012/07/IMG_20120721_110750.jpg)
 
-![-]({{site.baseurl}}/wp-content/uploads/2012/07/IMG_20120721_110800.jpg)
+![-]({{site.baseurl}}/assets/uploads/2012/07/IMG_20120721_110800.jpg)
 
-![-]({{site.baseurl}}/wp-content/uploads/2012/07/IMG_20120721_111052.jpg)
+![-]({{site.baseurl}}/assets/uploads/2012/07/IMG_20120721_111052.jpg)
 
-![-]({{site.baseurl}}/wp-content/uploads/2012/07/IMG_20120721_111100.jpg)
+![-]({{site.baseurl}}/assets/uploads/2012/07/IMG_20120721_111100.jpg)
 
-![-]({{site.baseurl}}/wp-content/uploads/2012/07/IMG_20120721_111103.jpg)
+![-]({{site.baseurl}}/assets/uploads/2012/07/IMG_20120721_111103.jpg)
 
 J&rsquo;ai pris un simple filtre habitacle Norauto.
 
@@ -149,7 +149,7 @@ Nous avons cherché un long moment où était localisé le filtre habitacle&#823
 
 Pour l&rsquo;anecdote, voici les instructions données sur le feuillet explicatif Norauto :
 
-![-]({{site.baseurl}}/wp-content/uploads/2012/07/Filtre-Habitacle-Instructions-Norauto.jpg)
+![-]({{site.baseurl}}/assets/uploads/2012/07/Filtre-Habitacle-Instructions-Norauto.jpg)
 
 Vu après coup bien sûr&#8230; comme quoi il faut lire les notices 🙂 même si on a déjà vu plus clair.
 
@@ -157,11 +157,11 @@ Vu après coup bien sûr&#8230; comme quoi il faut lire les notices 🙂 même s
   * Dévisser la pédale d&rsquo;accélérateur (quelques vis), la déconnecter (prise électronique)
   * Enlever le cache du filtre, sortir le filtre usagé
 
-![-]({{site.baseurl}}/wp-content/uploads/2012/07/IMG_20120721_145921.jpg)
+![-]({{site.baseurl}}/assets/uploads/2012/07/IMG_20120721_145921.jpg)
 
-![-]({{site.baseurl}}/wp-content/uploads/2012/07/IMG_20120721_145938.jpg)
+![-]({{site.baseurl}}/assets/uploads/2012/07/IMG_20120721_145938.jpg)
 
-![-]({{site.baseurl}}/wp-content/uploads/2012/07/IMG_20120721_145943.jpg)
+![-]({{site.baseurl}}/assets/uploads/2012/07/IMG_20120721_145943.jpg)
 
   * Le nouveau filtre a un sens, marqué par « air flow » et une flèche dans mon cas. L&rsquo;origine de l&rsquo;air vient du coté moteur&#8230;
   * Mettre le filtre en place (même position que l&rsquo;ancien filtre), c&rsquo;est assez galère, on peut le compresser un peu pour le faire rentrer.

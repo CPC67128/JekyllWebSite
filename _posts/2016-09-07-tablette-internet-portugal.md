@@ -1,4 +1,4 @@
----
+﻿---
 id: 1577
 title: Une tablette et Internet au Portugal
 date: 2016-09-07T21:38:12+01:00
@@ -30,4 +30,4 @@ J&rsquo;ai donné la tablette transmise à la personne qui est donc partie au 
 
 Le suivi Free Mobile permet d&rsquo;avoir un bon détail, et il m&rsquo;a également permet de confirmer que le décompte des 35 jours de connexion par an était par pays:
 
-![utilisation-du-forfait-free-mobile-au-portugal]({{site.baseurl}}/wp-content/uploads/2016/09/Utilisation-du-forfait-free-mobile-au-Portugal-.png)
+![utilisation-du-forfait-free-mobile-au-portugal]({{site.baseurl}}/assets/uploads/2016/09/Utilisation-du-forfait-free-mobile-au-Portugal-.png)

@@ -1,4 +1,4 @@
----
+﻿---
 id: 1520
 title: 'Souscription à l''offre FreeBox Revolution avec résiliation LiveBox Orange'
 date: 2016-06-14T20:29:00+01:00
@@ -60,7 +60,7 @@ Le même soir, je remarque que ma LiveBox Orange n&rsquo;est plus active, je n&
 
 Je me rends sur mon interface de suivi. A priori l&rsquo;ensemble des étapes ont été faites, sauf que je n&rsquo;ai pas encore la box. Ce qui s&rsquo;appelle mettre la charrue avant les boeufs.
 
-![-]({{site.baseurl}}/wp-content/uploads/2016/06/Free-Suivi.png)
+![-]({{site.baseurl}}/assets/uploads/2016/06/Free-Suivi.png)
 
 **Jeudi 9/6/2016**
 

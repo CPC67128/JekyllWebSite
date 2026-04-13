@@ -1,4 +1,4 @@
----
+﻿---
 title: Domotique / Pilotage de mes volets roulants Somfy IO
 date: 2020-08-29
 author: Steve
@@ -34,19 +34,19 @@ La première option qui m'est venu à l'esprit est d'utiliser des relais connect
 
 J'ai fait des tests de la solution avec des LED pour vérifier la viabilité de l'option :
 
-![-]({{site.baseurl}}/wp-content/uploads/2014/08/DSC00131.jpg)
+![-]({{site.baseurl}}/assets/uploads/2014/08/DSC00131.jpg)
 
 J'utilise l'outil GPIO de Gordon Henderson: [Wiring Pi](http://wiringpi.com/) pour commander les GPIO.
 
 Après le test avec les LED, j'ai connecté les boutons de la télécommande.
 
-![-]({{site.baseurl}}/wp-content/uploads/2015/11/DSC04532_R.jpg)
+![-]({{site.baseurl}}/assets/uploads/2015/11/DSC04532_R.jpg)
 
-![-]({{site.baseurl}}/wp-content/uploads/2015/11/DSC04533_R.jpg)
+![-]({{site.baseurl}}/assets/uploads/2015/11/DSC04533_R.jpg)
 
-![-]({{site.baseurl}}/wp-content/uploads/2015/11/DSC04665_R.jpg)
+![-]({{site.baseurl}}/assets/uploads/2015/11/DSC04665_R.jpg)
 
-![-]({{site.baseurl}}/wp-content/uploads/2017/07/20170719_224307.jpg)
+![-]({{site.baseurl}}/assets/uploads/2017/07/20170719_224307.jpg)
 
 Le tout fonctionne via le Shell. Pour simuler l'appui sur un bouton, j'envoie la valeur 1 sur la sortie correspondante au bouton du GPIO, j'attends 1 secondes (commande shell <sleep 1>) puis j'envoie 0 sur la sortie correspondante.
 
@@ -56,13 +56,13 @@ Une interface web m'a semblé le plus judicieux. PHP permet d'exécuter des comm
 
 J'ai donc démarré un projet d'interface de commande :
 
-![-]({{site.baseurl}}/wp-content/uploads/2015/11/2015-11-29_094745.png)
+![-]({{site.baseurl}}/assets/uploads/2015/11/2015-11-29_094745.png)
 
 Que j'ai fait un peu évoluer.
 
-![-]({{site.baseurl}}/wp-content/uploads/2016/12/2016-12-07_231155.png)
+![-]({{site.baseurl}}/assets/uploads/2016/12/2016-12-07_231155.png)
 
-![-]({{site.baseurl}}/wp-content/uploads/2016/12/2016-12-07_231237.png)
+![-]({{site.baseurl}}/assets/uploads/2016/12/2016-12-07_231237.png)
 
 # Pourquoi ne pas utiliser une plateforme existante ?
 
@@ -74,7 +74,7 @@ Je vous conseille de faire un tour sur [EasyDomoticz](https://easydomoticz.com/)
 
 Voici à quoi a ressemblé mon interface Domoticz :
 
-![-]({{site.baseurl}}/wp-content/uploads/2017/07/2017-07-19_223923.png)
+![-]({{site.baseurl}}/assets/uploads/2017/07/2017-07-19_223923.png)
 
 Au fur et à mesure des évolutions du Raspberry Pi, j'ai également testé d'autres systèmes domotiques libres / open source.
 

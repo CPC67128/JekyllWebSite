@@ -1,4 +1,4 @@
----
+﻿---
 id: 1816
 title: Changement ventilateur Synology DS216+II
 date: 2017-08-14T20:03:59+01:00
@@ -19,7 +19,7 @@ J&rsquo;ai donc commandé un Noctua NF-A9 PWM 92 mm sur [Amazon](https://www.am
 
 Déballage du paquet du ventilateur Noctua:
 
-![-]({{site.baseurl}}/wp-content/uploads/2017/08/DSC09892.jpg)
+![-]({{site.baseurl}}/assets/uploads/2017/08/DSC09892.jpg)
 
 Pour accéder au ventilateur du DS216+II, il faut le démonter.
 
@@ -27,58 +27,58 @@ Il y a 4 vis pour le ventilateur à l&rsquo;arrière à enlever (facile).
 
 Après j&rsquo;ai un peu cherché pour sortir le ventilateur. Il s&rsquo;avère qu&rsquo;il faut ouvrir le boitier du NAS. Pour ce faire, sortir les disques durs, et vous remarquerez 2 points d&rsquo;accroches en plastique. Il faut un peu faire levier sur la barre métallique pour que les deux parties du Synology se déboîtent. Faites attention, ça peut vite rentrer un peu dans la chair 🙂
 
-![-]({{site.baseurl}}/wp-content/uploads/2017/08/DSC09896.jpg)
+![-]({{site.baseurl}}/assets/uploads/2017/08/DSC09896.jpg)
 
-![-]({{site.baseurl}}/wp-content/uploads/2017/08/DSC09897.jpg)
+![-]({{site.baseurl}}/assets/uploads/2017/08/DSC09897.jpg)
 
 Vu sur le ventilateur et sa connectique:
 
-![-]({{site.baseurl}}/wp-content/uploads/2017/08/DSC09898.jpg)
+![-]({{site.baseurl}}/assets/uploads/2017/08/DSC09898.jpg)
 
-![-]({{site.baseurl}}/wp-content/uploads/2017/08/DSC09899.jpg)
+![-]({{site.baseurl}}/assets/uploads/2017/08/DSC09899.jpg)
 
-![-]({{site.baseurl}}/wp-content/uploads/2017/08/DSC09900.jpg)
+![-]({{site.baseurl}}/assets/uploads/2017/08/DSC09900.jpg)
 
 Le ventilateur d&rsquo;origine du DS216+II:
 
-![-]({{site.baseurl}}/wp-content/uploads/2017/08/DSC09901.jpg)
+![-]({{site.baseurl}}/assets/uploads/2017/08/DSC09901.jpg)
 
 Comparaison entre les deux ventilateurs (origine à gauche, Noctua à droite): les épaisseurs sont identiques (hormis les petits amortisseurs des bords du Noctua que l&rsquo;on peut enlever)
 
-![-]({{site.baseurl}}/wp-content/uploads/2017/08/DSC09902.jpg)
+![-]({{site.baseurl}}/assets/uploads/2017/08/DSC09902.jpg)
 
-![-]({{site.baseurl}}/wp-content/uploads/2017/08/DSC09903.jpg)
+![-]({{site.baseurl}}/assets/uploads/2017/08/DSC09903.jpg)
 
 Mise en place:
 
-![-]({{site.baseurl}}/wp-content/uploads/2017/08/DSC09904.jpg)
+![-]({{site.baseurl}}/assets/uploads/2017/08/DSC09904.jpg)
 
-![-]({{site.baseurl}}/wp-content/uploads/2017/08/DSC09905.jpg)
+![-]({{site.baseurl}}/assets/uploads/2017/08/DSC09905.jpg)
 
 J&rsquo;ai essayé d&rsquo;utiliser les fixations caoutchoucs fournies (prévues pour des grilles) au lieu des vis mais sans succès, ce n&rsquo;est pas adapté. A moins de démonter tout le NAS, il n&rsquo;est pas possible de fixer l&rsquo;un des coins.
 
-![-]({{site.baseurl}}/wp-content/uploads/2017/08/DSC09907.jpg)
+![-]({{site.baseurl}}/assets/uploads/2017/08/DSC09907.jpg)
 
 J&rsquo;ai donc remis les vis du ventilateur d&rsquo;origine en laissant les petits amortisseurs caoutchoucs (fragiles), mais je doute que cela soit utile :
 
-![-]({{site.baseurl}}/wp-content/uploads/2017/08/DSC09908.jpg)
+![-]({{site.baseurl}}/assets/uploads/2017/08/DSC09908.jpg)
 
 Pour la connectique, il faut brancher le câble du ventilateur avec connecteur 4 fils sur le connecteur 3 points du NAS. J&rsquo;ai fait un premier test et ça fonctionne sans problème.
 
-![-]({{site.baseurl}}/wp-content/uploads/2017/08/DSC09911.jpg)
+![-]({{site.baseurl}}/assets/uploads/2017/08/DSC09911.jpg)
 
-![-]({{site.baseurl}}/wp-content/uploads/2017/08/DSC09913.jpg)
+![-]({{site.baseurl}}/assets/uploads/2017/08/DSC09913.jpg)
 
-![-]({{site.baseurl}}/wp-content/uploads/2017/08/DSC09915.jpg)
+![-]({{site.baseurl}}/assets/uploads/2017/08/DSC09915.jpg)
 
 J&rsquo;ai ensuite testé avec le petit câble Low-Noise Adapter (L.N.A.) founie avec le Noctua qu&rsquo;il suffit de brancher en premier (brancher le ventilateur sur ce câble). Et c&rsquo;est encore plus silencieux.
 
-![-]({{site.baseurl}}/wp-content/uploads/2017/08/DSC09917.jpg)
+![-]({{site.baseurl}}/assets/uploads/2017/08/DSC09917.jpg)
 
 Quelques photos du montage final:
 
-![-]({{site.baseurl}}/wp-content/uploads/2017/08/DSC09918.jpg)
+![-]({{site.baseurl}}/assets/uploads/2017/08/DSC09918.jpg)
 
-![-]({{site.baseurl}}/wp-content/uploads/2017/08/DSC09919.jpg)
+![-]({{site.baseurl}}/assets/uploads/2017/08/DSC09919.jpg)
 
 En conclusion, le remplacement du ventilateur d&rsquo;origine du DS216+II par un ventilateur Noctua ne réduit pas au silence son NAS, mais il m&rsquo;a permis de supprimer ce petit claquement désagréable que j&rsquo;entendais. Au démarrage, le NAS fait tout de même des petits claquements qui disparaissent une fois l&rsquo;initialisation terminée. Le changement me convient tout à fait.

@@ -1,4 +1,4 @@
----
+﻿---
 id: 1935
 title: Synology hébergé chez iKoula
 date: 2017-09-25T21:32:53+01:00
@@ -19,7 +19,7 @@ J&rsquo;ai vu dans le Linux Magazine de mois un publicité d&rsquo;iKoula pour u
 
 L&rsquo;offre est variée, mais je trouve ça un peu cher.
 
-![-]({{site.baseurl}}/wp-content/uploads/2017/09/2017-09-05_215408.png)
+![-]({{site.baseurl}}/assets/uploads/2017/09/2017-09-05_215408.png)
 
 J&rsquo;ai pris un DS115J sur un mois, avec 2 To (offre la moins chère), pour mes tests.
 
@@ -33,23 +33,23 @@ Pour comparaison, mon Synology a été acheté fin 2012 (DS213), j&rsquo;y ai mi
 
 Pas de surprise, la commande est facile a faire, et les options sont claires.
 
-![-]({{site.baseurl}}/wp-content/uploads/2017/09/2017-09-05_142248.png)
+![-]({{site.baseurl}}/assets/uploads/2017/09/2017-09-05_142248.png)
 
 La livraison est faite dans l&rsquo;heure:
 
-![-]({{site.baseurl}}/wp-content/uploads/2017/09/2017-09-05_210509.png)
+![-]({{site.baseurl}}/assets/uploads/2017/09/2017-09-05_210509.png)
 
-![-]({{site.baseurl}}/wp-content/uploads/2017/09/2017-09-05_210528.png)
+![-]({{site.baseurl}}/assets/uploads/2017/09/2017-09-05_210528.png)
 
-![-]({{site.baseurl}}/wp-content/uploads/2017/09/2017-09-05_210617.png)
+![-]({{site.baseurl}}/assets/uploads/2017/09/2017-09-05_210617.png)
 
 L&rsquo;interface de connexion est similaire à celle de mon Synology maison mais avec un arrière plan personnalisé iKoula:
 
-![-]({{site.baseurl}}/wp-content/uploads/2017/09/2017-09-05_210603.png)
+![-]({{site.baseurl}}/assets/uploads/2017/09/2017-09-05_210603.png)
 
-![-]({{site.baseurl}}/wp-content/uploads/2017/09/2017-09-05_211733.png)
+![-]({{site.baseurl}}/assets/uploads/2017/09/2017-09-05_211733.png)
 
-![-]({{site.baseurl}}/wp-content/uploads/2017/09/2017-09-05_211931.png)
+![-]({{site.baseurl}}/assets/uploads/2017/09/2017-09-05_211931.png)
 
 # Utilisation comme solution de sauvegarde
 
@@ -59,27 +59,27 @@ Pour mon test, j&rsquo;ai fait une sauvegarde de mon NAS Synology local vers mon
 
 Sur le Synology iKoula, j&rsquo;ai créé un dossier partagé « Backup » et installeé Hyper Backup Vault.
 
-![-]({{site.baseurl}}/wp-content/uploads/2017/09/2017-09-05_212231.png)
+![-]({{site.baseurl}}/assets/uploads/2017/09/2017-09-05_212231.png)
 
 ## Configuration de mon Synology local
 
 J&rsquo;ai ouvert Hyper Backup pour créer une sauvegarde sur « Synology NAS distant »:
 
-![-]({{site.baseurl}}/wp-content/uploads/2017/09/2017-09-05_212101.png)
+![-]({{site.baseurl}}/assets/uploads/2017/09/2017-09-05_212101.png)
 
 Utilisation de l&rsquo;adresse IP du NAS iKoula et le compte admin directement:
 
-![-]({{site.baseurl}}/wp-content/uploads/2017/09/2017-09-05_212822.png)
+![-]({{site.baseurl}}/assets/uploads/2017/09/2017-09-05_212822.png)
 
 J&rsquo;ai démarré la sauvegarde, et j&rsquo;ai attendu&#8230;
 
 Côté NAS distant:
 
-![-]({{site.baseurl}}/wp-content/uploads/2017/09/2017-09-05_213321.png)
+![-]({{site.baseurl}}/assets/uploads/2017/09/2017-09-05_213321.png)
 
 Côté NAS local:
 
-![-]({{site.baseurl}}/wp-content/uploads/2017/09/2017-09-05_213334.png)
+![-]({{site.baseurl}}/assets/uploads/2017/09/2017-09-05_213334.png)
 
 ## Performances
 
@@ -87,7 +87,7 @@ J&rsquo;ai observé une progression de 292 Mo au bout de 54 minutes.
 
 Si j&rsquo;extrapole: 1 Go au bout de 4 heures environs, 1 To au bout de 166 jours.
 
-![-]({{site.baseurl}}/wp-content/uploads/2017/09/2017-09-05_222837.png)
+![-]({{site.baseurl}}/assets/uploads/2017/09/2017-09-05_222837.png)
 
 Avec une bonne connexion, je pense qu&rsquo;on peut bien réduire cette durée.
 
